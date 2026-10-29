@@ -1,0 +1,1499 @@
+theme,code,label,first_year,last_year,years_with_data,gaps_inside_span,latest_value
+Other,SM.POP.RHCR.EO,Refugees under the mandate of the UNHCR by country or territory of origin,1994.0,2025.0,32,0.0,8019.0
+Other,SM.POP.NETM,Net migration,1960.0,2025.0,66,0.0,-364699.0
+Other,SM.POP.ASYS.EA,Asylum-seekers by country or territory of asylum,2000.0,2025.0,26,0.0,302.0
+People,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1991.0,2025.0,35,0.0,10.46
+People,SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labor force) (modeled ILO estimate)",1991.0,2025.0,35,0.0,11.82
+People,SL.UEM.NEET.MA.ZS,"Share of youth not in education, employment or training, male (% of male youth population)",2008.0,2017.0,3,7.0,21.16
+People,SL.UEM.INTM.ZS,Unemployment with intermediate education (% of total labor force with intermediate education),2008.0,2017.0,2,8.0,14.46
+People,SL.UEM.BASC.MA.ZS,"Unemployment with basic education, male (% of male labor force with basic education)",2008.0,2017.0,2,8.0,8.65
+People,SL.UEM.ADVN.FE.ZS,"Unemployment with advanced education, female (% of female labor force with advanced education)",2008.0,2017.0,2,8.0,7.68
+People,SL.UEM.1524.MA.NE.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",1999.0,2017.0,3,16.0,19.23
+People,SL.TLF.TOTL.FE.ZS,"Labor force, female (% of total labor force)",1990.0,2025.0,36,0.0,37.6
+People,SL.TLF.INTM.ZS,Labor force with intermediate education (% of total working-age population with intermediate education),2008.0,2017.0,2,8.0,44.19
+People,SL.TLF.CACT.NE.ZS,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",1961.0,2017.0,11,46.0,39.92
+People,SL.TLF.CACT.FM.NE.ZS,Ratio of female to male labor force participation rate (%) (national estimate),1961.0,2017.0,12,45.0,50.79
+People,SL.TLF.BASC.MA.ZS,"Labor force with basic education, male (% of male working-age population with basic education)",2008.0,2017.0,2,8.0,58.38
+People,SL.TLF.ADVN.FE.ZS,"Labor force with advanced education, female (% of female working-age population with advanced education)",2008.0,2017.0,2,8.0,56.94
+People,SL.TLF.ACTI.1524.ZS,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",1990.0,2025.0,36,0.0,27.3
+People,SL.TLF.ACTI.1524.FE.ZS,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",1990.0,2025.0,36,0.0,19.15
+People,SL.TLF.0714.WK.TM,"Average working hours of children, working only, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,14.22
+People,SL.TLF.0714.WK.FE.TM,"Average working hours of children, working only, female, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,13.58
+People,SL.TLF.0714.SW.MA.TM,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,8.14
+People,SL.TLF.0714.FE.ZS,"Children in employment, female (% of female children ages 7-14)",1999.0,2014.0,3,13.0,44.09
+People,SL.SRV.0714.ZS,Child employment in services (% of economically active children ages 7-14),1999.0,2008.0,2,8.0,3.09
+People,SL.SLF.0714.MA.ZS,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",1999.0,2008.0,2,8.0,5.17
+People,SL.MNF.0714.FE.ZS,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",1999.0,2008.0,2,8.0,1.48
+People,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),1991.0,2025.0,35,0.0,20873.6
+People,SL.FAM.0714.ZS,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",1999.0,2008.0,2,8.0,92.26
+People,SL.EMP.WORK.MA.ZS,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,28.62
+People,SL.EMP.VULN.FE.ZS,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,90.3
+People,SL.EMP.TOTL.SP.MA.NE.ZS,"Employment to population ratio, 15+, male (%) (national estimate)",1991.0,2017.0,8,19.0,49.57
+People,SL.EMP.SELF.ZS,"Self-employed, total (% of total employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,78.58
+People,SL.EMP.MPYR.MA.ZS,"Employers, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,2.24
+People,SL.EMP.1524.SP.MA.ZS,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,28.83
+People,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),1991.0,2025.0,35,0.0,22.91
+People,SL.AGR.0714.MA.ZS,"Child employment in agriculture, male (% of male economically active children ages 7-14)",1999.0,2008.0,2,8.0,89.03
+Other,SI.SPR.PCAP,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",,,0,,
+Other,SI.RMT.COST.IB.ZS,Average transaction cost of sending remittances to a specific country (%),2016.0,2023.0,8,0.0,2.53
+Other,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),2022.0,2022.0,1,0.0,20.3
+Other,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),1984.0,2022.0,5,34.0,9.1
+Other,SI.DST.FRST.20,Income share held by lowest 20%,1984.0,2022.0,5,34.0,8.7
+Other,SI.DST.05TH.20,Income share held by highest 20%,1984.0,2022.0,5,34.0,39.0
+Other,SH_UHC_SCI_RMNCH,"UHC service coverage sub-index on reproductive, maternal, newborn and child health",2000.0,2023.0,24,0.0,62.0
+Other,SH_UHC_SCI,UHC service coverage index,2000.0,2023.0,24,0.0,58.0
+Other,SH_UHC_FH40_FURTHER,"Proportion of population further impoverished due to out-of-pocket health expenditure, based on the societal poverty line (%)",2003.0,2022.0,6,14.0,16.0
+People,SH.XPD.PVTD.CH.ZS,Domestic private health expenditure (% of current health expenditure),2000.0,2023.0,24,0.0,61.75
+People,SH.XPD.GHED.PP.CD,"Domestic general government health expenditure per capita, PPP (current international $)",2000.0,2023.0,24,0.0,103.99
+People,SH.XPD.GHED.CH.ZS,Domestic general government health expenditure (% of current health expenditure),2000.0,2023.0,24,0.0,31.31
+People,SH.XPD.CHEX.PP.CD,"Current health expenditure per capita, PPP (current international $)",2000.0,2023.0,24,0.0,332.16
+People,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2000.0,2024.0,25,0.0,227.0
+Other,DT.NFL.SDGF.CD,"Net official flows from UN agencies, SDGFUND (current US$)",2022.0,2022.0,1,0.0,749993.98
+Other,DT.NFL.PROP.CD,"PPG, other private creditors (NFL, current US$)",1977.0,2007.0,27,4.0,-22000.0
+Other,DT.NFL.PCBK.CD,"PPG, commercial banks (NFL, current US$)",1986.0,2024.0,6,33.0,-129000.0
+Other,DT.NFL.MOTH.CD,"Net financial flows, others (NFL, current US$)",1977.0,2024.0,46,2.0,43939064.6
+Other,DT.NFL.IMFN.CD,"Net financial flows, IMF nonconcessional (NFL, current US$)",1976.0,2024.0,49,0.0,32220048.2
+Other,DT.NFL.IAEA.CD,"Net official flows from UN agencies, IAEA (current US$)",2010.0,2023.0,13,1.0,1521196.01
+Other,DT.NFL.BOND.CD,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",,,0,,
+Other,DT.DOD.PVLX.CD,Present value of external debt (current US$),2024.0,2024.0,1,0.0,5653726173.6
+Other,DT.DOD.DSTC.ZS,Short-term debt (% of total external debt),1970.0,2024.0,55,0.0,4.17
+Other,DT.DOD.DPPG.CD,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",1970.0,2024.0,55,0.0,8870826934.3
+Other,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),1970.0,2024.0,55,0.0,23.27
+Other,DC.ODA.TOTL.CD,"Net ODA provided, total (current US$)",,,0,,
+Other,DC.DAC.TOTL.CD,"Net bilateral aid flows from DAC donors, Total (current US$)",1960.0,2023.0,64,0.0,498034188.4
+Other,DC.DAC.PRTL.CD,"Net bilateral aid flows from DAC donors, Portugal (current US$)",1997.0,2023.0,8,19.0,52274.0
+Other,DC.DAC.NLDL.CD,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",1970.0,2019.0,49,1.0,53802.0
+Other,DC.DAC.JPNL.CD,"Net bilateral aid flows from DAC donors, Japan (current US$)",1960.0,2023.0,64,0.0,65435684.2
+People,SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labor force) (modeled ILO estimate)",1991.0,2025.0,35,0.0,9.65
+People,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",2008.0,2017.0,2,8.0,34.76
+People,SL.UEM.NEET.FE.ZS,"Share of youth not in education, employment or training, female (% of female youth population)",2008.0,2017.0,2,8.0,45.82
+People,SL.UEM.INTM.FE.ZS,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",2008.0,2017.0,2,8.0,16.51
+People,SL.UEM.ADVN.ZS,Unemployment with advanced education (% of total labor force with advanced education),2008.0,2017.0,2,8.0,8.32
+People,SL.UEM.1524.NE.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",1999.0,2017.0,3,16.0,20.53
+People,SL.UEM.1524.FE.NE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",1999.0,2017.0,3,16.0,22.48
+People,SL.TLF.PART.MA.ZS,"Part time employment, male (% of total male employment)",2008.0,2017.0,2,8.0,24.16
+People,SL.TLF.INTM.FE.ZS,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",2008.0,2017.0,2,8.0,34.05
+People,SL.TLF.CACT.MA.NE.ZS,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",1961.0,2017.0,12,45.0,54.95
+People,SL.TLF.CACT.FE.NE.ZS,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",1961.0,2017.0,12,45.0,27.91
+People,SL.TLF.ADVN.ZS,Labor force with advanced education (% of total working-age population with advanced education),2008.0,2017.0,2,8.0,67.67
+People,SL.TLF.ACTI.MA.ZS,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",1990.0,2025.0,36,0.0,56.18
+People,SL.TLF.ACTI.1524.MA.ZS,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",1990.0,2025.0,36,0.0,35.64
+People,SL.TLF.0714.ZS,"Children in employment, total (% of children ages 7-14)",1999.0,2014.0,3,13.0,42.83
+People,SL.TLF.0714.WK.MA.TM,"Average working hours of children, working only, male, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,15.23
+People,SL.TLF.0714.SW.TM,"Average working hours of children, study and work, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,8.82
+People,SL.TLF.0714.SW.FE.TM,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",2008.0,2014.0,2,5.0,9.45
+People,SL.SRV.EMPL.MA.ZS,"Employment in services, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,45.37
+People,SL.SRV.0714.FE.ZS,"Child employment in services, female (% of female economically active children ages 7-14)",1999.0,2008.0,2,8.0,2.19
+People,SL.MNF.0714.ZS,Child employment in manufacturing (% of economically active children ages 7-14),1999.0,2008.0,2,8.0,1.39
+People,SL.IND.EMPL.MA.ZS,"Employment in industry, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,39.33
+People,SL.FAM.WORK.MA.ZS,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,26.8
+People,SL.FAM.0714.FE.ZS,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",1999.0,2008.0,2,8.0,92.51
+People,SL.EMP.VULN.ZS,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,76.98
+People,SL.EMP.TOTL.SP.NE.ZS,"Employment to population ratio, 15+, total (%) (national estimate)",1991.0,2017.0,8,19.0,35.66
+People,SL.EMP.TOTL.SP.FE.NE.ZS,"Employment to population ratio, 15+, female (%) (national estimate)",1991.0,2017.0,8,19.0,24.56
+People,SL.EMP.SELF.FE.ZS,"Self-employed, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,90.83
+People,SL.EMP.1524.SP.ZS,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,21.69
+People,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,14.71
+People,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,35.86
+Other,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),1984.0,2022.0,5,34.0,3.9
+Other,SI.SPR.PC40,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",,,0,,
+Other,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),1984.0,2022.0,5,34.0,52.7
+Other,SI.POV.MPUN,Multidimensional poverty headcount ratio (UNDP & OPHI) (% of population),2022.0,2022.0,1,0.0,20.1
+Other,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),1984.0,2022.0,5,34.0,0.3
+Other,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),1984.0,2022.0,5,34.0,7.9
+Other,SI.DST.03RD.20,Income share held by third 20%,1984.0,2022.0,5,34.0,17.0
+Other,SH_UHC_SCI_ID,UHC service coverage sub-index on infectious diseases,2000.0,2023.0,24,0.0,83.0
+Other,SH_UHC_FH40_LARGE,Proportion of population facing large (but non-impoverishing) out-of-pocket health expenditure (%),2003.0,2022.0,6,14.0,6.43
+People,SH.XPD.PVTD.PP.CD,"Domestic private health expenditure per capita, PPP (current international $)",2000.0,2023.0,24,0.0,205.1
+People,SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita (current US$),2000.0,2023.0,24,0.0,49.86
+People,SH.XPD.GHED.GE.ZS,Domestic general government health expenditure (% of general government expenditure),2000.0,2023.0,24,0.0,7.66
+People,SH.XPD.EHEX.PC.CD,External health expenditure per capita (current US$),2000.0,2023.0,24,0.0,5.83
+People,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2000.0,2023.0,24,0.0,6.16
+People,SH.TBS.CURE.ZS,Tuberculosis treatment success rate (% of new cases),2000.0,2023.0,24,0.0,92.0
+People,SH.STA.WAST.ZS,"Prevalence of wasting, weight for height (% of children under 5)",1995.0,2022.0,11,17.0,7.0
+People,SH.STA.TRAF.P5,"Mortality caused by road traffic injury (per 100,000 population)",2000.0,2019.0,20,0.0,16.3
+Other,DT.NFL.RDBC.CD,"Net financial flows, RDB concessional (NFL, current US$)",1970.0,2024.0,55,0.0,187762000.0
+Other,DT.NFL.PNGB.CD,"PNG, bonds (NFL, current US$)",,,0,,
+Other,DT.NFL.OFFT.CD,"PPG, official creditors (NFL, US$)",1970.0,2024.0,55,0.0,484330047.0
+Other,DT.NFL.MIDA.CD,"Net financial flows, IDA (NFL, current US$)",1970.0,2024.0,55,0.0,289551000.0
+Other,DT.NFL.ILOG.CD,"Net official flows from UN agencies, ILO (current US$)",2012.0,2023.0,12,0.0,2284620.05
+Other,DT.NFL.DPNG.CD,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",2014.0,2024.0,10,1.0,-99087000.0
+Other,DT.DOD.PVLX.GN.ZS,Present value of external debt (% of GNI),2024.0,2024.0,1,0.0,12.96
+Other,DT.DOD.MIDA.CD,"PPG, IDA (DOD, current US$)",1970.0,2024.0,55,0.0,4531123000.0
+Other,DT.DOD.DSTC.IR.ZS,Short-term debt (% of total reserves),1977.0,2024.0,48,0.0,2.67
+Other,DT.DOD.DLXF.CD,"External debt stocks, long-term (DOD, current US$)",1970.0,2024.0,55,0.0,8984861934.3
+Other,DC.ODA.TOTL.KD,"Net ODA provided, total (constant 2023 US$)",,,0,,
+Other,DC.ODA.TLDC.CD,"Net ODA provided, to the least developed countries (current US$)",,,0,,
+Other,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",2012.0,2022.0,4,7.0,42065.0
+Other,DC.DAC.NZLL.CD,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",1972.0,2023.0,52,0.0,246834.99
+Other,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",2009.0,2022.0,9,5.0,5174.0
+Other,DC.DAC.ISLL.CD,"Net bilateral aid flows from DAC donors, Iceland (current US$)",2008.0,2015.0,2,6.0,300000.01
+Other,DC.DAC.GBRL.CD,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",1960.0,2023.0,64,0.0,47675041.2
+Other,SM.POP.OPIP.EA,Other people in need of international protection by country or territory of asylum,,,0,,
+Other,SM.POP.ASYS.EO,Asylum-seekers by country or territory of origin,2000.0,2025.0,26,0.0,14564.0
+People,SL.WAG.0714.FE.ZS,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",1999.0,2008.0,2,8.0,1.69
+People,SL.UEM.TOTL.MA.NE.ZS,"Unemployment, male (% of male labor force) (national estimate)",1999.0,2017.0,5,14.0,9.79
+People,SL.UEM.NEET.ME.ZS,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",2005.0,2025.0,21,0.0,30.66
+People,SL.UEM.NEET.FE.ME.ZS,"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)",2005.0,2025.0,21,0.0,41.39
+People,SL.UEM.BASC.ZS,Unemployment with basic education (% of total labor force with basic education),2008.0,2017.0,2,8.0,9.81
+People,SL.UEM.ADVN.MA.ZS,"Unemployment with advanced education, male (% of male labor force with advanced education)",2008.0,2017.0,2,8.0,8.61
+People,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",1991.0,2025.0,35,0.0,19.11
+People,SL.TLF.TOTL.IN,"Labor force, total",1990.0,2025.0,36,0.0,8362760.0
+People,SL.TLF.PART.FE.ZS,"Part time employment, female (% of total female employment)",2008.0,2017.0,2,8.0,41.01
+People,SL.TLF.CACT.ZS,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",1990.0,2025.0,36,0.0,39.24
+People,SL.TLF.CACT.FM.ZS,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),1990.0,2025.0,36,0.0,51.93
+People,SL.TLF.BASC.ZS,Labor force with basic education (% of total working-age population with basic education),2008.0,2017.0,2,8.0,44.0
+People,SL.TLF.ADVN.MA.ZS,"Labor force with advanced education, male (% of male working-age population with advanced education)",2008.0,2017.0,2,8.0,73.91
+People,SL.TLF.ACTI.FE.ZS,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",1990.0,2025.0,36,0.0,29.55
+People,SL.TLF.ACTI.1524.MA.NE.ZS,"Labor force participation rate for ages 15-24, male (%) (national estimate)",1961.0,2017.0,8,49.0,39.51
+People,SL.TLF.0714.WK.ZS,"Children in employment, work only (% of children in employment, ages 7-14)",1999.0,2014.0,3,13.0,8.75
+People,SL.TLF.0714.WK.FE.ZS,"Children in employment, work only, female (% of female children in employment, ages 7-14)",1999.0,2014.0,3,13.0,10.21
+People,SL.TLF.0714.SW.MA.ZS,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",1999.0,2014.0,3,13.0,92.86
+People,SL.TLF.0714.MA.ZS,"Children in employment, male (% of male children ages 7-14)",1999.0,2014.0,3,13.0,41.5
+People,SL.SRV.EMPL.FE.ZS,"Employment in services, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,46.55
+People,SL.SLF.0714.ZS,"Children in employment, self-employed (% of children in employment, ages 7-14)",1999.0,2008.0,2,8.0,5.46
+People,SL.MNF.0714.MA.ZS,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",1999.0,2008.0,2,8.0,1.27
+People,SL.IND.EMPL.FE.ZS,"Employment in industry, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,17.59
+People,SL.FAM.WORK.FE.ZS,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,65.01
+People,SL.EMP.WORK.ZS,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,21.42
+People,SL.EMP.VULN.MA.ZS,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,69.14
+People,SL.EMP.TOTL.SP.MA.ZS,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,47.8
+People,SL.EMP.SMGT.FE.ZS,Female share of employment in senior and middle management (%) ,2017.0,2017.0,1,0.0,13.9
+People,SL.EMP.MPYR.ZS,"Employers, total (% of total employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,1.6
+People,SL.EMP.1524.SP.NE.ZS,"Employment to population ratio, ages 15-24, total (%) (national estimate)",1999.0,2017.0,3,16.0,23.45
+People,SL.EMP.1524.SP.FE.NE.ZS,"Employment to population ratio, ages 15-24, female (%) (national estimate)",1999.0,2017.0,3,16.0,16.57
+People,SL.AGR.0714.ZS,Child employment in agriculture (% of economically active children ages 7-14),1999.0,2008.0,2,8.0,88.97
+Other,SI.SPR.PCAP.ZG,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",,,0,,
+Other,SI.RMT.COST.OB.ZS,Average transaction cost of sending remittances from a specific country (%),,,0,,
+Other,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),1984.0,2022.0,5,34.0,20.2
+Other,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),1984.0,2022.0,5,34.0,1.8
+Other,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),1984.0,2022.0,5,34.0,2.4
+Other,SI.DST.10TH.10,Income share held by highest 10%,1984.0,2022.0,5,34.0,24.2
+Other,SI.DST.02ND.20,Income share held by second 20%,1984.0,2022.0,5,34.0,13.1
+Other,SH_UHC_SCI_CAPACITY,UHC service coverage sub-index on service capacity and access,2000.0,2023.0,24,0.0,50.0
+Other,SH_UHC_FH40_IMPOV,"Proportion of population facing impoverishing out-of-pocket health expenditure, based on the societal poverty line (%)",2003.0,2022.0,6,14.0,18.5
+People,SH.XPD.PVTD.PC.CD,Domestic private health expenditure per capita (current US$),2000.0,2023.0,24,0.0,51.84
+People,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2000.0,2023.0,24,0.0,59.39
+People,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2000.0,2023.0,24,0.0,1.93
+Other,DT.NFL.IFAD.CD,"Net official flows from UN agencies, IFAD (current US$)",1980.0,2023.0,44,0.0,5975659.85
+Other,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",2017.0,2022.0,3,3.0,3186000.11
+Other,DT.DOD.PVLX.EX.ZS,"Present value of external debt (% of exports of goods, services and primary income)",2024.0,2024.0,1,0.0,130.47
+Other,DT.DOD.MIBR.CD,"PPG, IBRD (DOD, current US$)",,,0,,
+Other,DT.DOD.DSTC.CD,"External debt stocks, short-term (DOD, current US$)",1977.0,2024.0,48,0.0,422881000.0
+Other,DT.DOD.DIMF.CD,"Use of IMF credit (DOD, current US$)",1976.0,2024.0,49,0.0,744414391.4
+Other,DC.ODA.TOTL.GN.ZS,"Net ODA provided, total (% of GNI)",,,0,,
+Other,DC.DAC.USAL.CD,"Net bilateral aid flows from DAC donors, United States (current US$)",1960.0,2023.0,64,0.0,139001434.33
+Other,DC.DAC.SVKL.CD,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",2013.0,2019.0,3,4.0,35830.0
+Other,DC.DAC.NORL.CD,"Net bilateral aid flows from DAC donors, Norway (current US$)",1964.0,2023.0,55,5.0,33098857.88
+Other,DC.DAC.KORL.CD,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",1988.0,2023.0,36,0.0,12405343.06
+Other,DC.DAC.IRLL.CD,"Net bilateral aid flows from DAC donors, Ireland (current US$)",1982.0,2023.0,42,0.0,802834.99
+People,SL.UEM.TOTL.FE.NE.ZS,"Unemployment, female (% of female labor force) (national estimate)",1999.0,2017.0,5,14.0,12.02
+People,SL.UEM.NEET.MA.ME.ZS,"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)",2005.0,2025.0,21,0.0,19.7
+People,SL.UEM.INTM.MA.ZS,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",2008.0,2017.0,2,8.0,13.25
+People,SL.UEM.BASC.FE.ZS,"Unemployment with basic education, female (% of female labor force with basic education)",2008.0,2017.0,2,8.0,12.64
+People,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",1991.0,2025.0,35,0.0,20.56
+People,SL.UEM.1524.FE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",1991.0,2025.0,35,0.0,23.19
+People,SL.TLF.PART.ZS,"Part time employment, total (% of total employment)",2008.0,2017.0,2,8.0,30.61
+People,SL.TLF.INTM.MA.ZS,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",2008.0,2017.0,2,8.0,53.68
+People,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",1990.0,2025.0,36,0.0,52.9
+People,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",1990.0,2025.0,36,0.0,27.47
+People,SL.TLF.BASC.FE.ZS,"Labor force with basic education, female (% of female working-age population with basic education)",2008.0,2017.0,2,8.0,27.47
+People,SL.TLF.ACTI.ZS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",1990.0,2025.0,36,0.0,41.89
+People,SL.TLF.ACTI.1524.NE.ZS,"Labor force participation rate for ages 15-24, total (%) (national estimate)",1961.0,2017.0,8,49.0,29.5
+People,SL.TLF.ACTI.1524.FE.NE.ZS,"Labor force participation rate for ages 15-24, female (%) (national estimate)",1961.0,2017.0,8,49.0,21.37
+People,SL.TLF.0714.WK.MA.ZS,"Children in employment, work only, male (% of male children in employment, ages 7-14)",1999.0,2014.0,3,13.0,7.14
+People,SL.TLF.0714.SW.ZS,"Children in employment, study and work (% of children in employment, ages 7-14)",1999.0,2014.0,3,13.0,91.25
+People,SL.TLF.0714.SW.FE.ZS,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",1999.0,2014.0,3,13.0,89.79
+People,SL.SRV.EMPL.ZS,Employment in services (% of total employment) (modeled ILO estimate),1991.0,2025.0,35,0.0,45.81
+People,SL.SRV.0714.MA.ZS,"Child employment in services, male (% of male economically active children ages 7-14)",1999.0,2008.0,2,8.0,4.17
+People,SL.SLF.0714.FE.ZS,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",1999.0,2008.0,2,8.0,5.71
+People,SL.IND.EMPL.ZS,Employment in industry (% of total employment) (modeled ILO estimate),1991.0,2025.0,35,0.0,31.28
+People,SL.FAM.WORK.ZS,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,40.95
+People,SL.FAM.0714.MA.ZS,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",1999.0,2008.0,2,8.0,91.97
+People,SL.EMP.WORK.FE.ZS,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,9.17
+People,SL.EMP.TOTL.SP.ZS,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,35.14
+People,SL.EMP.TOTL.SP.FE.ZS,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",1991.0,2025.0,35,0.0,24.23
+People,SL.EMP.SELF.MA.ZS,"Self-employed, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,71.38
+People,SL.EMP.MPYR.FE.ZS,"Employers, female (% of female employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,0.53
+People,SL.EMP.1524.SP.MA.NE.ZS,"Employment to population ratio, ages 15-24, male (%) (national estimate)",1999.0,2017.0,3,16.0,31.91
+People,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1991.0,2025.0,35,0.0,15.3
+People,SL.AGR.0714.FE.ZS,"Child employment in agriculture, female (% of female economically active children ages 7-14)",1999.0,2008.0,2,8.0,88.93
+Other,SI.SPR.PC40.ZG,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",,,0,,
+Other,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),1984.0,2022.0,5,34.0,16.1
+Other,SI.POV.MPWB,Multidimensional poverty headcount ratio (World Bank) (% of population),2010.0,2022.0,2,11.0,4.4
+Other,SI.POV.GINI,Gini index,1984.0,2022.0,5,34.0,30.0
+Other,SI.DST.FRST.10,Income share held by lowest 10%,1984.0,2022.0,5,34.0,3.7
+Other,SI.DST.04TH.20,Income share held by fourth 20%,1984.0,2022.0,5,34.0,22.2
+Other,SH_UHC_SCI_NCD,UHC service coverage sub-index on non-communicable diseases,2000.0,2023.0,24,0.0,43.0
+Other,SH_UHC_FH40_PUSHED,Proportion of population pushed into poverty (based on the societal poverty line) due to out-of-pocket health expenditure (%),2003.0,2022.0,6,14.0,2.51
+Other,SH_UHC_FH40,Proportion of population facing financial hardship due to out-of-pocket health expenditure (%),2003.0,2022.0,6,14.0,24.94
+People,SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP (current international $)",2000.0,2023.0,24,0.0,197.27
+People,SH.XPD.GHED.PC.CD,Domestic general government health expenditure per capita (current US$),2000.0,2023.0,24,0.0,26.28
+People,SH.XPD.EHEX.PP.CD,"External health expenditure per capita, PPP (current international $)",2000.0,2023.0,24,0.0,23.08
+People,SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2000.0,2023.0,24,0.0,83.96
+Other,DT.NFL.RDBN.CD,"Net financial flows, RDB nonconcessional (NFL, current US$)",1971.0,1982.0,12,0.0,-293000.0
+Other,DT.NFL.PNGC.CD,"PNG, commercial banks and other creditors (NFL, current US$)",2014.0,2024.0,10,1.0,-99087000.0
+Other,DT.NFL.PBND.CD,"PPG, bonds (NFL, current US$)",,,0,,
+Other,DT.NFL.MLAT.CD,"Net financial flows, multilateral (NFL, current US$)",1970.0,2024.0,55,0.0,533200000.0
+Other,DT.NFL.IMFC.CD,"Net financial flows, IMF concessional (NFL, current US$)",,,0,,
+Other,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",2013.0,2023.0,7,4.0,877286.02
+Other,DT.NFL.BLAT.CD,"Net financial flows, bilateral (NFL, current US$)",1970.0,2024.0,55,0.0,-48870017.6
+Other,DT.DOD.MWBG.CD,"IBRD loans and IDA credits (DOD, current US$)",1970.0,2024.0,55,0.0,4531123000.0
+Other,DT.DOD.DSTC.XP.ZS,"Short-term debt (% of exports of goods, services and primary income)",1977.0,2024.0,48,0.0,9.77
+Other,DT.DOD.DPNG.CD,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",2014.0,2024.0,11,0.0,114035000.0
+Other,DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)",1970.0,2024.0,55,0.0,10152157325.7
+Other,DC.ODA.TLDC.GN.ZS,Net ODA provided to the least developed countries (% of GNI),,,0,,
+Other,DC.DAC.SWEL.CD,"Net bilateral aid flows from DAC donors, Sweden (current US$)",1967.0,2023.0,41,16.0,6246785.16
+Other,DC.DAC.POLL.CD,"Net bilateral aid flows from DAC donors, Poland (current US$)",2005.0,2023.0,18,1.0,122998.0
+Other,DC.DAC.LUXL.CD,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",1990.0,2023.0,34,0.0,1933012.96
+Other,DC.DAC.ITAL.CD,"Net bilateral aid flows from DAC donors, Italy (current US$)",1970.0,2023.0,48,6.0,1183282.97
+Other,DC.DAC.GRCL.CD,"Net bilateral aid flows from DAC donors, Greece (current US$)",1997.0,2022.0,17,9.0,1052.0
+People,SH.SVR.WAST.MA.ZS,"Prevalence of severe wasting, weight for height, male (% of children under 5)",1996.0,2022.0,10,17.0,0.8
+People,SH.STA.WAST.FE.ZS,"Prevalence of wasting, weight for height, female (% of children under 5)",1996.0,2022.0,10,17.0,6.3
+People,SH.STA.SUIC.MA.P5,"Suicide mortality rate, male (per 100,000 male population)",2000.0,2021.0,22,0.0,13.33
+People,SH.STA.STNT.ME.MA.ZS,"Prevalence of stunting, height for age, male (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,27.0
+People,SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population),2000.0,2024.0,25,0.0,53.41
+People,SH.STA.POIS.P5.FE,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",2000.0,2021.0,22,0.0,3.0
+People,SH.STA.OWGH.ME.MA.ZS,"Prevalence of overweight, weight for height, male (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,1.9
+People,SH.STA.ORTH,Diarrhea treatment (% of children under 5 who received ORS packet),1986.0,2019.0,11,23.0,59.5
+People,SH.STA.ODFC.RU.ZS,"People practicing open defecation, rural (% of rural population)",2000.0,2024.0,25,0.0,0.0
+People,SH.STA.MALN.MA.ZS,"Prevalence of underweight, weight for age, male (% of children under 5)",1996.0,2022.0,10,17.0,16.4
+People,SH.STA.HYGN.RU.ZS,"People with basic handwashing facilities including soap and water, rural (% of rural population)",2005.0,2024.0,20,0.0,65.75
+People,SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),1991.0,2019.0,11,18.0,77.2
+People,SH.STA.BASS.RU.ZS,"People using at least basic sanitation services, rural (% of rural population)",2000.0,2024.0,25,0.0,86.97
+People,SH.STA.AIRP.MA.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",2019.0,2019.0,1,0.0,204.3
+People,SH.SGR.CRSK.ZS,Risk of catastrophic expenditure for surgical care (% of people at risk),2003.0,2022.0,18,2.0,58.2
+People,SH.PRG.ANEM,Prevalence of anemia among pregnant women (%),2000.0,2023.0,24,0.0,35.2
+People,SH.MLR.TRET.ZS,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),2006.0,2016.0,3,8.0,2.0
+People,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1960.0,2023.0,28,36.0,1.01
+People,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1981.0,2024.0,44,0.0,97.0
+People,SH.HIV.INCD.ZS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",1990.0,2024.0,35,0.0,0.1
+People,SH.HIV.INCD.TL,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,1990.0,2024.0,35,0.0,620.0
+People,SH.HIV.1524.MA.ZS,"Prevalence of HIV, male (% ages 15-24)",1990.0,2024.0,35,0.0,0.1
+People,SH.H2O.SMDW.UR.ZS,"People using safely managed drinking water services, urban (% of urban population)",2000.0,2024.0,25,0.0,23.62
+People,SH.H2O.BASW.RU.ZS,"People using at least basic drinking water services, rural (% of rural population)",2000.0,2024.0,25,0.0,94.02
+People,SH.DYN.NCOM.MA.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",2000.0,2021.0,22,0.0,19.6
+People,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1960.0,2024.0,65,0.0,25.1
+People,SH.DYN.1519,"Probability of dying among adolescents ages 15-19 years (per 1,000)",1990.0,2024.0,35,0.0,3.9
+People,SH.DTH.NMRT,Number of neonatal deaths,1960.0,2024.0,65,0.0,8589.0
+People,SH.DTH.IMRT,Number of infant deaths,1960.0,2024.0,65,0.0,12587.0
+People,SH.DTH.1014,Number of deaths ages 10-14 years,1990.0,2024.0,35,0.0,1167.0
+People,SH.ANM.NPRG.ZS,Prevalence of anemia among non-pregnant women (% of women ages 15-49),2000.0,2023.0,24,0.0,33.2
+People,SH.ALC.PCAP.LI,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",2000.0,2020.0,21,0.0,1.06
+Other,SG.VAW.NEGL.ZS,Women who believe a husband is justified in beating his wife when she neglects the children (%),2001.0,2022.0,5,17.0,15.3
+Other,SG.VAW.1549.ZS,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),2016.0,2016.0,1,0.0,11.2
+Other,SG.DMK.SRCR.FN.ZS,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",2011.0,2022.0,3,9.0,62.6
+People,SE.XPD.TERT.ZS,Expenditure on tertiary education (% of government expenditure on education),1998.0,2015.0,14,4.0,10.8
+People,SE.XPD.PRIM.ZS,Expenditure on primary education (% of government expenditure on education),1998.0,2015.0,14,4.0,53.77
+People,SE.XPD.CSEC.ZS,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",2010.0,2015.0,6,0.0,89.93
+People,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",1983.0,2024.0,26,16.0,23.87
+People,SE.TER.CUAT.ST.MA.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",2008.0,2017.0,3,7.0,8.72
+People,SE.TER.CUAT.MS.FE.ZS,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",2008.0,2017.0,3,7.0,0.95
+People,SE.TER.CUAT.BA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",2008.0,2017.0,3,7.0,5.82
+Other,DC.DAC.HUNL.CD,"Net bilateral aid flows from DAC donors, Hungary (current US$)",2013.0,2021.0,7,2.0,350811.99
+Other,DC.DAC.FINL.CD,"Net bilateral aid flows from DAC donors, Finland (current US$)",1972.0,2023.0,48,4.0,18656818.39
+Other,DC.DAC.DEUL.CD,"Net bilateral aid flows from DAC donors, Germany (current US$)",1964.0,2023.0,60,0.0,50924720.76
+Other,DC.DAC.CANL.CD,"Net bilateral aid flows from DAC donors, Canada (current US$)",1964.0,2023.0,58,2.0,2453735.11
+Other,CM.MKT.TRNR,"Stocks traded, turnover ratio of domestic shares (%)",,,0,,
+Other,CM.MKT.LCAP.GD.ZS,Market capitalization of listed domestic companies (% of GDP),,,0,,
+External,BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1993.0,2025.0,33,0.0,14698762231.33
+External,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",1972.0,2025.0,49,5.0,0.1
+External,BX.GSR.TOTL.CD,"Exports of goods, services and primary income (BoP, current US$)",1976.0,2025.0,50,0.0,5295025656.68
+External,BX.GSR.INSF.ZS,"Insurance and financial services (% of service exports, BoP)",2002.0,2025.0,24,0.0,1.05
+External,BX.GSR.CCIS.ZS,"ICT service exports (% of service exports, BoP)",2002.0,2025.0,24,0.0,9.61
+Other,BN.TRF.KOGT.CD,"Net capital account (BoP, current US$)",2002.0,2025.0,24,0.0,116788304.65
+Other,BN.KLT.DINV.CD,"Foreign direct investment, net (BoP, current US$)",1996.0,2025.0,29,1.0,-43532250.21
+Other,BN.GSR.FCTY.CD,"Net primary income (BoP, current US$)",1976.0,2025.0,50,0.0,544800720.47
+External,BM.TRF.PWKR.CD.DT,"Personal remittances, paid (current US$)",1993.0,2025.0,33,0.0,104771036.99
+External,BM.GSR.TRVL.ZS,"Travel services (% of service imports, BoP)",1976.0,2025.0,50,0.0,64.67
+External,BM.GSR.NFSV.CD,"Service imports (BoP, current US$)",1976.0,2025.0,50,0.0,2538180175.44
+External,BM.GSR.FCTY.CD,"Primary income payments (BoP, current US$)",1976.0,2025.0,50,0.0,357286455.28
+Other,AG.SRF.TOTL.K2,Surface area (sq. km),1961.0,2024.0,64,0.0,147181.0
+Other,AG.PRD.CREL.MT,Cereal production (metric tons),1961.0,2024.0,64,0.0,11525107.0
+Other,AG.LND.PRCP.MM,Average precipitation in depth (mm per year),1961.0,2022.0,62,0.0,1500.0
+Other,AG.LND.EL5M.ZS,Land area where elevation is below 5 meters (% of total land area),1990.0,2015.0,3,23.0,0.0
+Other,AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km),1990.0,2015.0,3,23.0,0.0
+Other,AG.LND.ARBL.HA.PC,Arable land (hectares per person),1961.0,2024.0,64,0.0,0.06
+Other,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),1961.0,2024.0,64,0.0,67.84
+People,SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",1995.0,2022.0,11,17.0,24.8
+People,SH.STA.STNT.MA.ZS,"Prevalence of stunting, height for age, male (% of children under 5)",1996.0,2022.0,10,17.0,24.7
+People,SH.STA.SMSS.RU.ZS,"People using safely managed sanitation services, rural (% of rural population)",2000.0,2024.0,25,0.0,55.56
+People,SH.STA.OWGH.ZS,"Prevalence of overweight, weight for height (% of children under 5)",1996.0,2022.0,9,18.0,1.3
+People,SH.STA.OWGH.MA.ZS,"Prevalence of overweight, weight for height, male (% of children under 5)",1996.0,2022.0,9,18.0,1.6
+People,SH.STA.ODFC.ZS,People practicing open defecation (% of population),2000.0,2024.0,25,0.0,0.53
+People,SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1985.0,2023.0,39,0.0,142.0
+People,SH.STA.HYGN.ZS,People with basic handwashing facilities including soap and water (% of population),2005.0,2024.0,20,0.0,68.24
+People,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011.0,2024.0,2,12.0,7.7
+People,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2000.0,2024.0,25,0.0,86.03
+People,SH.STA.ANVC.ZS,Pregnant women receiving prenatal care (%),1991.0,2019.0,10,19.0,88.8
+People,SH.SGR.PROC.P5,"Number of surgical procedures (per 100,000 population)",2011.0,2011.0,1,0.0,208.0
+People,SH.PRV.SMOK.FE,"Prevalence of current tobacco use, females (% of female adults)",2000.0,2024.0,9,16.0,10.6
+People,SH.MMR.RISK,Lifetime risk of maternal death (1 in: rate varies by country),1985.0,2023.0,39,0.0,332.0
+People,SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2000.0,2024.0,25,0.0,0.0
+People,SH.MED.CMHW.P3,"Community health workers (per 1,000 people)",2004.0,2004.0,1,0.0,0.68
+People,SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2003.0,2024.0,22,0.0,97.0
+People,SH.HIV.INCD.YG,Young people (ages 15-24) newly infected with HIV,1990.0,2024.0,35,0.0,100.0
+People,SH.HIV.INCD,Adults (ages 15-49) newly infected with HIV,1990.0,2024.0,35,0.0,540.0
+People,SH.HIV.0014,Children (0-14) living with HIV,1990.0,2024.0,35,0.0,1100.0
+People,SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2000.0,2024.0,25,0.0,93.64
+People,SH.DYN.NMRT,"Mortality rate, neonatal (per 1,000 live births)",1960.0,2024.0,65,0.0,15.3
+People,SH.DYN.MORT.MA,"Mortality rate, under-5, male (per 1,000 live births)",1960.0,2024.0,65,0.0,27.0
+People,SH.DYN.AIDS.FE.ZS,Women's share of population ages 15+ living with HIV (%),1990.0,2024.0,35,0.0,42.08
+People,SH.DYN.0509,"Probability of dying among children ages 5-9 years (per 1,000)",1990.0,2024.0,35,0.0,2.3
+People,SH.DTH.MORT,Number of under-five deaths,1960.0,2024.0,65,0.0,14257.0
+People,SH.DTH.2024,Number of deaths ages 20-24 years,1990.0,2024.0,35,0.0,3188.0
+People,SH.CON.1524.MA.ZS,"Condom use, population ages 15-24, male (% of males ages 15-24)",2001.0,2011.0,3,8.0,36.0
+People,SH.ANM.ALLW.ZS,Prevalence of anemia among women of reproductive age (% of women ages 15-49),2000.0,2023.0,24,0.0,33.2
+Other,SG.VAW.REFU.ZS,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),2001.0,2022.0,5,17.0,1.6
+Other,SG.VAW.BURN.ZS,Women who believe a husband is justified in beating his wife when she burns the food (%),2001.0,2022.0,5,17.0,1.2
+Other,SG.TIM.UWRK.FE,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",,,0,,
+People,SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total (% of GDP)",1998.0,2024.0,27,0.0,3.69
+People,SE.XPD.SECO.ZS,Expenditure on secondary education (% of government expenditure on education),1998.0,2015.0,14,4.0,33.32
+People,SE.XPD.CTOT.ZS,"Current education expenditure, total (% of total expenditure in public institutions)",2010.0,2015.0,6,0.0,89.03
+People,SE.TER.TCHR.FE.ZS,"Tertiary education, academic staff (% female)",1978.0,2024.0,3,44.0,31.25
+People,SE.TER.ENRL.TC.ZS,"Pupil-teacher ratio, tertiary",1974.0,2013.0,13,27.0,60.01
+People,SE.TER.CUAT.MS.ZS,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",2008.0,2017.0,3,7.0,1.75
+People,SE.TER.CUAT.DO.MA.ZS,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",,,0,,
+People,SE.TER.CUAT.BA.FE.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",2008.0,2017.0,3,7.0,3.52
+People,SE.SEC.TCHR.FE.ZS,"Secondary education, teachers (% female)",1977.0,2025.0,30,19.0,26.97
+People,SE.SEC.TCAQ.UP.ZS,Trained teachers in upper secondary education (% of total teachers),2008.0,2025.0,14,4.0,97.67
+People,SE.SEC.TCAQ.LO.ZS,Trained teachers in lower secondary education (% of total teachers),1999.0,2025.0,20,7.0,97.19
+People,SE.SEC.PROG.ZS,Progression to secondary school (%),1991.0,2016.0,12,14.0,82.38
+Other,DC.DAC.ESPL.CD,"Net bilateral aid flows from DAC donors, Spain (current US$)",1989.0,2023.0,32,3.0,164689.0
+Other,DC.DAC.CHEL.CD,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",1961.0,2023.0,62,1.0,35297100.07
+Other,DC.DAC.AUTL.CD,"Net bilateral aid flows from DAC donors, Austria (current US$)",1975.0,2023.0,49,0.0,4298674.11
+Other,CM.MKT.TRAD.CD,"Stocks traded, total value (current US$)",,,0,,
+Other,CM.MKT.INDX.ZG,S&P Global Equity Indices (annual % change),,,0,,
+External,BX.TRF.CURR.CD,"Secondary income receipts (BoP, current US$)",1976.0,2025.0,50,0.0,15974967633.7
+External,BX.GSR.TRVL.ZS,"Travel services (% of service exports, BoP)",1976.0,2025.0,50,0.0,35.31
+External,BX.GSR.NFSV.CD,"Service exports (BoP, current US$)",1976.0,2025.0,50,0.0,1814692283.53
+External,BX.GSR.FCTY.CD,"Primary income receipts (BoP, current US$)",1976.0,2025.0,50,0.0,902087175.75
+External,BX.GRT.TECH.CD.WD,"Technical cooperation grants (BoP, current US$)",1960.0,2023.0,64,0.0,81130636.0
+Other,BN.RES.INCL.CD,"Reserves and related items (BoP, current US$)",1976.0,2025.0,50,0.0,6024879529.53
+Other,BN.GSR.MRCH.CD,"Net trade in goods (BoP, current US$)",1976.0,2025.0,50,0.0,-10841739910.42
+Other,BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),1976.0,2025.0,50,0.0,10.67
+External,BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows (% of GDP)",1976.0,2025.0,15,35.0,0.0
+External,BM.GSR.TOTL.CD,"Imports of goods, services and primary income (BoP, current US$)",1976.0,2025.0,50,0.0,16315452738.54
+External,BM.GSR.INSF.ZS,"Insurance and financial services (% of service imports, BoP)",1976.0,2025.0,44,6.0,4.83
+Other,BG.GSR.NFSV.GD.ZS,Trade in services (% of GDP),1976.0,2025.0,50,0.0,9.57
+Other,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),1961.0,2024.0,64,0.0,123.19
+Other,AG.LND.TOTL.RU.K2,Rural land area (sq. km),1990.0,2015.0,3,23.0,140132.78
+Other,AG.LND.FRST.ZS,Forest area (% of land area),1990.0,2024.0,35,0.0,43.6
+Other,AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km),1990.0,2015.0,3,23.0,0.0
+Other,AG.LND.CREL.HA,Land under cereal production (hectares),1961.0,2024.0,64,0.0,3273282.0
+Other,AG.LND.AGRI.ZS,Agricultural land (% of land area),1961.0,2024.0,64,0.0,26.12
+People,SH.XPD.EHEX.CH.ZS,External health expenditure (% of current health expenditure),2000.0,2023.0,24,0.0,6.95
+People,SH.VAC.TTNS.ZS,Newborns protected against tetanus (%),1980.0,2024.0,45,0.0,93.0
+People,SH.SVR.WAST.ZS,"Prevalence of severe wasting, weight for height (% of children under 5)",1996.0,2022.0,10,17.0,0.8
+People,SH.STA.WAST.MA.ZS,"Prevalence of wasting, weight for height, male (% of children under 5)",1996.0,2022.0,10,17.0,7.6
+People,SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",2000.0,2021.0,22,0.0,10.14
+People,SH.STA.STNT.ME.ZS,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,26.0
+People,SH.STA.STNT.FE.ZS,"Prevalence of stunting, height for age, female (% of children under 5)",1996.0,2022.0,10,17.0,25.0
+People,SH.STA.POIS.P5.MA,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",2000.0,2021.0,22,0.0,2.84
+People,SH.STA.OWGH.ME.ZS,"Prevalence of overweight, weight for height (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,1.8
+People,SH.STA.OWGH.FE.ZS,"Prevalence of overweight, weight for height, female (% of children under 5)",1996.0,2022.0,9,18.0,1.0
+People,SH.STA.ODFC.UR.ZS,"People practicing open defecation, urban (% of urban population)",2000.0,2024.0,25,0.0,2.38
+People,SH.STA.MALN.ZS,"Prevalence of underweight, weight for age (% of children under 5)",1995.0,2022.0,11,17.0,18.3
+People,SH.STA.HYGN.UR.ZS,"People with basic handwashing facilities including soap and water, urban (% of urban population)",2005.0,2024.0,20,0.0,76.85
+People,SH.STA.BRTW.ZS,Low-birthweight babies (% of births),2000.0,2020.0,21,0.0,19.73
+People,SH.STA.BASS.UR.ZS,"People using at least basic sanitation services, urban (% of urban population)",2000.0,2024.0,25,0.0,82.74
+People,SH.STA.AIRP.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",2019.0,2019.0,1,0.0,177.9
+People,SH.SGR.IRSK.ZS,Risk of impoverishing expenditure for surgical care (% of people at risk),2003.0,2022.0,18,2.0,86.6
+People,SH.PRV.SMOK,Prevalence of current tobacco use (% of adults),2000.0,2024.0,9,16.0,28.7
+People,SH.MMR.DTHS,Number of maternal deaths,1985.0,2023.0,39,0.0,820.0
+People,SH.MED.SAOP.P5,"Specialist surgical workforce (per 100,000 population)",2014.0,2014.0,1,0.0,2.96
+People,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1960.0,2023.0,40,24.0,0.54
+People,SH.HIV.PMTC.ZS,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),2000.0,2024.0,25,0.0,65.0
+People,SH.HIV.INCD.TL.P3,"Incidence of HIV, all (per 1,000 uninfected population)",1990.0,2024.0,35,0.0,0.1
+People,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),2000.0,2024.0,25,0.0,77.0
+People,SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population),2000.0,2024.0,25,0.0,16.49
+People,SH.H2O.BASW.UR.ZS,"People using at least basic drinking water services, urban (% of urban population)",2000.0,2024.0,25,0.0,92.32
+People,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2000.0,2021.0,22,0.0,19.4
+People,SH.DYN.MORT.FE,"Mortality rate, under-5, female (per 1,000 live births)",1960.0,2024.0,65,0.0,23.1
+People,SH.DYN.2024,"Probability of dying among youth ages 20-24 years (per 1,000)",1990.0,2024.0,35,0.0,5.5
+People,SH.DTH.OCVD.ZS,"Cause of death, by other COVID-19 pandemic-related outcomes (% of total)",2000.0,2021.0,6,16.0,3.79
+People,SH.DTH.INJR.ZS,"Cause of death, by injury (% of total)",2000.0,2021.0,6,16.0,9.63
+People,SH.DTH.1519,Number of deaths ages 15-19 years,1990.0,2024.0,35,0.0,2269.0
+People,SH.CON.1524.FE.ZS,"Condom use, population ages 15-24, female (% of females ages 15-24)",2006.0,2011.0,2,4.0,8.5
+People,SH.ALC.PCAP.MA.LI,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",2000.0,2020.0,21,0.0,1.86
+Other,SG.VAW.REAS.ZS,Women who believe a husband is justified in beating his wife (any of five reasons) (%),2001.0,2022.0,5,17.0,18.6
+Other,SG.VAW.ARGU.ZS,Women who believe a husband is justified in beating his wife when she argues with him (%),2001.0,2022.0,5,17.0,4.7
+Other,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),1997.0,2024.0,27,1.0,33.09
+People,SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)",1998.0,2025.0,28,0.0,10.75
+People,SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary (% of GDP per capita)",1999.0,2015.0,13,4.0,10.45
+People,SE.XPD.CTER.ZS,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",2010.0,2015.0,6,0.0,82.39
+People,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",1983.0,2024.0,26,16.0,18.67
+People,SE.TER.CUAT.ST.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",2008.0,2017.0,3,7.0,5.82
+Other,DC.DAC.FRAL.CD,"Net bilateral aid flows from DAC donors, France (current US$)",1980.0,2023.0,44,0.0,6789915.08
+Other,DC.DAC.DNKL.CD,"Net bilateral aid flows from DAC donors, Denmark (current US$)",1973.0,2023.0,51,0.0,2604059.93
+Other,DC.DAC.CECL.CD,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",1973.0,2023.0,49,2.0,49941131.59
+Other,DC.DAC.AUSL.CD,"Net bilateral aid flows from DAC donors, Australia (current US$)",1965.0,2023.0,59,0.0,18359424.59
+Other,CM.MKT.LDOM.NO,"Listed domestic companies, total",,,0,,
+External,BX.TRF.PWKR.DT.GD.ZS,"Personal remittances, received (% of GDP)",1993.0,2025.0,33,0.0,32.31
+External,BX.PEF.TOTL.CD.WD,"Portfolio equity, net inflows (BoP, current US$)",1976.0,1994.0,19,0.0,0.0
+External,BX.GSR.TRAN.ZS,"Transport services (% of service exports, BoP)",1976.0,2025.0,50,0.0,13.24
+External,BX.GSR.MRCH.CD,"Goods exports (BoP, current US$)",1976.0,2025.0,50,0.0,2578246197.41
+External,BX.GSR.CMCP.ZS,"Communications, computer, etc. (% of service exports, BoP)",1976.0,2025.0,50,0.0,33.36
+External,BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)",1960.0,2023.0,64,0.0,488978785.0
+Other,BN.KLT.PTXL.CD,"Portfolio Investment, net (BoP, current US$)",,,0,,
+Other,BN.GSR.GNFS.CD,"Net trade in goods and services (BoP, current US$)",1976.0,2025.0,50,0.0,-11565227802.33
+Other,BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",1976.0,2025.0,50,0.0,4855136909.9
+External,BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows (BoP, current US$)",1976.0,2025.0,15,35.0,17280.14
+External,BM.GSR.ROYL.CD,"Charges for the use of intellectual property, payments (BoP, current US$)",2022.0,2025.0,4,0.0,15070922.52
+External,BM.GSR.GNFS.CD,"Imports of goods and services (BoP, current US$)",1976.0,2025.0,50,0.0,15958166283.26
+Other,AG.YLD.CREL.KG,Cereal yield (kg per hectare),1961.0,2024.0,64,0.0,3521.0
+Other,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),1961.0,2024.0,64,0.0,118.03
+Other,AG.LND.TOTL.K2,Land area (sq. km),1961.0,2024.0,64,0.0,143350.0
+Other,AG.LND.FRST.K2,Forest area (sq. km),1990.0,2025.0,36,0.0,62662.5
+Other,AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area),1990.0,2015.0,3,23.0,0.0
+Other,AG.LND.ARBL.ZS,Arable land (% of land area),1961.0,2024.0,64,0.0,12.58
+Other,AG.LND.AGRI.K2,Agricultural land (sq. km),1961.0,2024.0,64,0.0,37441.0
+People,SH.TBS.DTEC.ZS,"Tuberculosis case detection rate (%, all forms)",2000.0,2024.0,25,0.0,60.0
+People,SH.SVR.WAST.FE.ZS,"Prevalence of severe wasting, weight for height, female (% of children under 5)",1996.0,2022.0,10,17.0,0.9
+People,SH.STA.WASH.P5,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",2019.0,2019.0,1,0.0,17.8
+People,SH.STA.SUIC.FE.P5,"Suicide mortality rate, female (per 100,000 female population)",2000.0,2021.0,22,0.0,7.16
+People,SH.STA.STNT.ME.FE.ZS,"Prevalence of stunting, height for age, female (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,25.1
+People,SH.STA.SMSS.UR.ZS,"People using safely managed sanitation services, urban (% of urban population)",2000.0,2024.0,25,0.0,45.96
+People,SH.STA.POIS.P5,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",2000.0,2021.0,22,0.0,2.93
+People,SH.STA.OWGH.ME.FE.ZS,"Prevalence of overweight, weight for height, female (modeled estimate, % of children under 5)",2000.0,2024.0,25,0.0,1.6
+People,SH.STA.ORCF.ZS,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),2001.0,2019.0,7,12.0,62.4
+People,SH.STA.MMRT.NE,"Maternal mortality ratio (national estimate, per 100,000 live births)",2008.0,2016.0,2,7.0,239.0
+People,SH.STA.MALN.FE.ZS,"Prevalence of underweight, weight for age, female (% of children under 5)",1996.0,2022.0,10,17.0,20.4
+People,SH.STA.FGMS.ZS,Female genital mutilation prevalence (%),,,0,,
+People,SH.STA.BFED.ZS,Exclusive breastfeeding (% of children under 6 months),1996.0,2019.0,8,16.0,62.14
+People,SH.STA.ARIC.ZS,ARI treatment (% of children under 5 taken to a health provider),2001.0,2019.0,6,13.0,82.0
+People,SH.STA.AIRP.FE.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",2019.0,2019.0,1,0.0,156.0
+People,SH.PRV.SMOK.MA,"Prevalence of current tobacco use, males (% of male adults)",2000.0,2024.0,9,16.0,46.8
+People,SH.MMR.RISK.ZS,Lifetime risk of maternal death (%),1985.0,2023.0,39,0.0,0.3
+People,SH.MLR.NETS.ZS,Use of insecticide-treated bed nets (% of under-5 population),,,0,,
+People,SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",2004.0,2023.0,10,10.0,4.09
+People,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1980.0,2024.0,45,0.0,97.0
+People,SH.HIV.INCD.YG.P3,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",1990.0,2024.0,35,0.0,0.1
+People,SH.HIV.INCD.14,Children (ages 0-14) newly infected with HIV,1990.0,2024.0,35,0.0,100.0
+People,SH.HIV.1524.FE.ZS,"Prevalence of HIV, female (% ages 15-24)",1990.0,2024.0,35,0.0,0.1
+People,SH.H2O.SMDW.RU.ZS,"People using safely managed drinking water services, rural (% of rural population)",2000.0,2024.0,25,0.0,14.43
+People,SH.FPL.SATM.ZS,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),1996.0,2022.0,6,21.0,54.7
+People,SH.DYN.NCOM.FE.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",2000.0,2021.0,22,0.0,19.3
+People,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1990.0,2024.0,35,0.0,0.1
+People,SH.DYN.1014,"Probability of dying among adolescents ages 10-14 years (per 1,000)",1990.0,2024.0,35,0.0,2.0
+People,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2000.0,2021.0,6,16.0,55.34
+People,SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2000.0,2021.0,6,16.0,31.25
+People,SH.DTH.0509,Number of deaths ages 5-9 years,1990.0,2024.0,35,0.0,1304.0
+People,SH.ANM.CHLD.ZS,Prevalence of anemia among children (% of children ages 6-59 months),2000.0,2019.0,20,0.0,44.6
+People,SH.ALC.PCAP.FE.LI,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",2000.0,2020.0,21,0.0,0.37
+Other,SG.VAW.GOES.ZS,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),2001.0,2022.0,5,17.0,5.6
+Other,SG.TIM.UWRK.MA,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day) ",,,0,,
+Other,SG.DMK.ALLD.FN.ZS,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",2001.0,2022.0,5,17.0,47.8
+People,SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary (% of GDP per capita)",2000.0,2015.0,11,5.0,24.16
+People,SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary (% of GDP per capita)",1999.0,2015.0,13,4.0,12.36
+People,SE.XPD.CPRM.ZS,"Current education expenditure, primary (% of total expenditure in primary public institutions)",2010.0,2015.0,6,0.0,90.61
+People,SE.TER.ENRR,"School enrollment, tertiary (% gross)",1981.0,2024.0,40,4.0,21.29
+People,SE.TER.CUAT.ST.FE.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",2008.0,2017.0,3,7.0,3.52
+People,SE.TER.CUAT.DO.ZS,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",,,0,,
+People,SE.TER.CUAT.BA.MA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",2008.0,2017.0,3,7.0,8.72
+Other,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",2014.0,2015.0,2,0.0,61009.0
+Other,DC.DAC.CZEL.CD,"Net bilateral aid flows from DAC donors, Czechia (current US$)",2005.0,2022.0,16,2.0,190239.0
+Other,DC.DAC.BELL.CD,"Net bilateral aid flows from DAC donors, Belgium (current US$)",1975.0,2023.0,49,0.0,339536.01
+Other,CM.MKT.TRAD.GD.ZS,"Stocks traded, total value (% of GDP)",,,0,,
+Other,CM.MKT.LCAP.CD,Market capitalization of listed domestic companies (current US$),,,0,,
+External,BX.TRF.PWKR.CD,"Personal transfers, receipts (BoP, current US$)",1993.0,2025.0,33,0.0,14583674825.15
+External,BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1972.0,2025.0,49,5.0,43549530.34
+External,BX.GSR.ROYL.CD,"Charges for the use of intellectual property, receipts (BoP, current US$)",2022.0,2025.0,4,0.0,38150.13
+External,BX.GSR.GNFS.CD,"Exports of goods and services (BoP, current US$)",1976.0,2025.0,50,0.0,4392938480.93
+External,BX.GSR.CCIS.CD,"ICT service exports (BoP, current US$)",2002.0,2025.0,24,0.0,174343222.91
+Other,BN.TRF.CURR.CD,"Net secondary income (BoP, current US$)",1976.0,2025.0,50,0.0,15875563991.76
+Other,BN.KAC.EOMS.CD,"Net errors and omissions (BoP, current US$)",1976.0,2025.0,50,0.0,345880501.5
+Other,BN.FIN.TOTL.CD,"Net financial account (BoP, current US$)",1976.0,2025.0,50,0.0,5317805716.05
+External,BM.TRF.PRVT.CD,"Secondary income, other sectors, payments (BoP, current US$)",1976.0,2025.0,50,0.0,99403641.94
+External,BM.GSR.TRAN.ZS,"Transport services (% of service imports, BoP)",1976.0,2025.0,50,0.0,20.7
+External,BM.GSR.MRCH.CD,"Goods imports (BoP, current US$)",1976.0,2025.0,50,0.0,13419986107.82
+External,BM.GSR.CMCP.ZS,"Communications, computer, etc. (% of service imports, BoP)",1976.0,2025.0,50,0.0,8.87
+Other,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),1961.0,2024.0,64,0.0,139.91
+Other,AG.LND.TOTL.UR.K2,Urban land area (sq. km),1990.0,2015.0,3,23.0,3041.75
+Other,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),2006.0,2024.0,8,11.0,32.29
+Other,AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area),1990.0,2015.0,3,23.0,0.0
+Other,AG.LND.CROP.ZS,Permanent cropland (% of land area),1961.0,2024.0,64,0.0,1.01
+Other,AG.LND.ARBL.HA,Arable land (hectares),1961.0,2024.0,64,0.0,1803800.0
+Other,AG.CON.FERT.PT.ZS,Fertilizer consumption (% of fertilizer production),1983.0,1983.0,1,0.0,129.07
+People,SE.SEC.UNER.LO.MA.ZS,"Adolescents out of school, male (% of male lower secondary school age)",2016.0,2024.0,6,3.0,4.35
+People,SE.SEC.TCHR,"Secondary education, teachers",1972.0,2025.0,46,8.0,124257.0
+People,SE.SEC.TCAQ.UP.FE.ZS,"Trained teachers in upper secondary education, female (% of female teachers)",2008.0,2025.0,13,5.0,95.21
+People,SE.SEC.TCAQ.LO.FE.ZS,"Trained teachers in lower secondary education, female (% of female teachers)",1999.0,2025.0,20,7.0,97.52
+People,SE.SEC.PROG.FE.ZS,"Progression to secondary school, female (%)",1991.0,2016.0,12,14.0,80.77
+People,SE.SEC.NENR,"School enrollment, secondary (% net)",2007.0,2019.0,5,8.0,61.87
+People,SE.SEC.ENRL.VO.FE.ZS,"Secondary education, vocational pupils (% female)",1999.0,2019.0,9,12.0,51.18
+People,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary",1993.0,2019.0,21,6.0,31.99
+People,SE.SEC.ENRL,"Secondary education, pupils",1972.0,2024.0,49,4.0,3668708.0
+People,SE.SEC.CUAT.UP.FE.ZS,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",1971.0,2021.0,7,44.0,10.03
+People,SE.SEC.CUAT.LO.ZS,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",1971.0,2021.0,8,43.0,33.89
+People,SE.SEC.CMPT.LO.MA.ZS,"Lower secondary completion rate, male (% of relevant age group)",1992.0,2025.0,22,12.0,95.34
+People,SE.PRM.UNER.MA.ZS,"Children out of school, male (% of male primary school age)",1983.0,2025.0,8,35.0,0.12
+People,SE.PRM.UNER,"Children out of school, primary",1983.0,2025.0,18,25.0,21146.0
+People,SE.PRM.TCHR.FE.ZS,"Primary education, teachers (% female)",1976.0,2025.0,34,16.0,54.7
+People,SE.PRM.TCAQ.FE.ZS,"Trained teachers in primary education, female (% of female teachers)",1999.0,2025.0,22,5.0,96.0
+People,SE.PRM.PRSL.ZS,"Persistence to last grade of primary, total (% of cohort)",1991.0,2016.0,11,15.0,73.55
+People,SE.PRM.PRS5.MA.ZS,"Persistence to grade 5, male (% of cohort)",1991.0,2016.0,11,15.0,73.69
+People,SE.PRM.OENR.MA.ZS,"Over-age students, primary, male (% of male enrollment)",1988.0,2019.0,12,20.0,24.65
+People,SE.PRM.NINT.FE.ZS,"Net intake rate in grade 1, female (% of official school-age population)",,,0,,
+People,SE.PRM.GINT.ZS,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",1988.0,2019.0,24,8.0,146.62
+People,SE.PRM.ENRR.FE,"School enrollment, primary, female (% gross)",1970.0,2025.0,43,13.0,126.38
+People,SE.PRM.ENRL,"Primary education, pupils",1970.0,2025.0,53,3.0,3565348.0
+People,SE.PRM.CUAT.FE.ZS,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",2001.0,2021.0,6,15.0,36.41
+People,SE.PRM.AGES,Primary school starting age (years),1970.0,2025.0,47,9.0,5.0
+People,SE.PRE.ENRR.MA,"School enrollment, preprimary, male (% gross)",1983.0,2022.0,24,16.0,99.12
+People,SE.PRE.DURS,"Preprimary education, duration (years)",1999.0,2025.0,27,0.0,2.0
+People,SE.LPV.PRIM.MA,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,0,,
+People,SE.LPV.PRIM.FE,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,0,,
+People,SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)",1981.0,2022.0,38,4.0,0.95
+People,SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)",1981.0,2019.0,8,31.0,79.75
+People,SE.ADT.1524.LT.FM.ZS,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",1981.0,2019.0,9,30.0,0.95
+Other,per_si_allsi.cov_q4_tot,Coverage of social insurance programs in 4th quintile (% of population),2010.0,2010.0,1,0.0,6.43
+Other,per_si_allsi.cov_pop_tot,Coverage of social insurance programs (% of population),2010.0,2010.0,1,0.0,5.26
+Other,per_sa_allsa.cov_q4_tot,Coverage of social safety net programs in 4th quintile (% of population),2010.0,2010.0,1,0.0,36.71
+Other,per_sa_allsa.cov_pop_tot,Coverage of social safety net programs (% of population),2010.0,2010.0,1,0.0,40.14
+Other,per_lm_alllm.cov_q4_tot,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),,,0,,
+Other,per_lm_alllm.cov_pop_tot,Coverage of unemployment benefits and ALMP (% of population),,,0,,
+Other,per_allsp.ben_q1_tot,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),2010.0,2010.0,1,0.0,5.92
+Other,PA.NUS.PPP,"PPP conversion factor, GDP (LCU per international $)",1990.0,2025.0,36,0.0,33.9
+Other,NY.TTF.GNFS.KN,Terms of trade adjustment (constant LCU),2001.0,2025.0,25,0.0,37981739192.5
+Other,NY.TAX.NIND.KN,Taxes less subsidies on products (constant LCU),1965.0,2025.0,61,0.0,308230490712.84
+Other,NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU),1960.0,2025.0,66,0.0,78467036500.0
+Other,NY.GNS.ICTR.CN,Gross savings (current LCU),1976.0,2025.0,50,0.0,2669327346694.3
+People,SE.SEC.NENR.MA,"School enrollment, secondary, male (% net)",2007.0,2019.0,5,8.0,60.94
+People,SE.SEC.ENRR.FE,"School enrollment, secondary, female (% gross)",1981.0,2024.0,40,4.0,90.89
+People,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary",1993.0,2019.0,18,9.0,24.86
+People,SE.SEC.ENRL.GC,"Secondary education, general pupils",1970.0,2019.0,27,23.0,3421508.0
+People,SE.SEC.CUAT.UP.ZS,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",1971.0,2021.0,6,45.0,12.85
+People,SE.SEC.CUAT.PO.MA.ZS,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",1971.0,2017.0,6,41.0,16.59
+People,SE.SEC.CUAT.LO.FE.ZS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",1971.0,2021.0,8,43.0,26.59
+People,SE.SEC.AGES,Lower secondary school starting age (years),1970.0,2025.0,47,9.0,10.0
+People,SE.PRM.UNER.FE.ZS,"Children out of school, female (% of female primary school age)",1983.0,2025.0,8,35.0,1.45
+People,SE.PRM.TENR.FE,"Adjusted net enrollment rate, primary, female (% of primary school age children)",1983.0,2004.0,7,15.0,74.78
+People,SE.PRM.TCAQ.ZS,Trained teachers in primary education (% of total teachers),1999.0,2025.0,22,5.0,95.82
+People,SE.PRM.REPT.MA.ZS,"Repeaters, primary, male (% of male enrollment)",1992.0,2019.0,21,7.0,7.86
+People,SE.PRM.PRSL.FE.ZS,"Persistence to last grade of primary, female (% of cohort)",1991.0,2016.0,11,15.0,73.41
+People,SE.PRM.PRIV.ZS,"School enrollment, primary, private (% of total primary)",1983.0,2020.0,19,19.0,25.38
+People,SE.PRM.NINT.ZS,Net intake rate in grade 1 (% of official school-age population),,,0,,
+People,SE.PRM.NENR.FE,"School enrollment, primary, female (% net)",1983.0,2004.0,7,15.0,74.78
+People,SE.PRM.GINT.FE.ZS,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",1992.0,2019.0,22,6.0,147.53
+People,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary",1970.0,2019.0,46,4.0,19.74
+People,SE.PRM.CUAT.ZS,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",2001.0,2021.0,6,15.0,46.35
+People,SE.PRM.CMPT.MA.ZS,"Primary completion rate, male (% of relevant age group)",1992.0,2025.0,22,12.0,109.96
+People,SE.PRE.TCAQ.MA.ZS,"Trained teachers in preprimary education, male (% of male teachers)",2010.0,2025.0,12,4.0,65.39
+People,SE.PRE.ENRR,"School enrollment, preprimary (% gross)",1983.0,2022.0,24,16.0,93.7
+People,SE.LPV.PRIM.SD.FE,Female primary school age children out-of-school (%),,,0,,
+People,SE.LPV.PRIM.LD.FE,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,0,,
+People,SE.ENR.TERT.FM.ZS,"School enrollment, tertiary (gross), gender parity index (GPI)",1983.0,2024.0,26,16.0,1.22
+People,SE.COM.DURS,"Compulsory education, duration (years)",2015.0,2025.0,11,0.0,9.0
+People,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",1981.0,2019.0,9,30.0,94.24
+Other,PX.REX.REER,Real effective exchange rate index (2010 = 100),,,0,,
+Other,per_si_allsi.cov_q2_tot,Coverage of social insurance programs in 2nd quintile (% of population),2010.0,2010.0,1,0.0,2.73
+Other,per_si_allsi.adq_pop_tot,Adequacy of social insurance programs (% of total welfare of beneficiary households),2010.0,2010.0,1,0.0,18.25
+Other,per_sa_allsa.cov_q2_tot,Coverage of social safety net programs in 2nd quintile (% of population),2010.0,2010.0,1,0.0,46.51
+Other,per_sa_allsa.adq_pop_tot,Adequacy of social safety net programs (% of total welfare of beneficiary households),2010.0,2010.0,1,0.0,2.51
+Other,per_lm_alllm.cov_q2_tot,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),,,0,,
+Other,per_lm_alllm.adq_pop_tot,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),,,0,,
+Other,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",1990.0,2025.0,36,0.0,35.27
+Other,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",1960.0,2025.0,66,0.0,139.12
+Other,NY.TRF.NCTR.CN,Net secondary income (Net current transfers from abroad) (current LCU),1976.0,2025.0,50,0.0,1874297299600.0
+Other,NY.TAX.NIND.CD,Taxes less subsidies on products (current US$),1960.0,2025.0,66,0.0,5469560308.03
+Other,NY.GNS.ICTR.ZS,Gross savings (% of GDP),1976.0,2025.0,50,0.0,43.05
+People,SE.TER.CUAT.MS.MA.ZS,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",2008.0,2017.0,3,7.0,2.76
+People,SE.TER.CUAT.DO.FE.ZS,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",,,0,,
+People,SE.SEC.UNER.LO.ZS,Adolescents out of school (% of lower secondary school age),2016.0,2025.0,7,3.0,0.68
+People,SE.SEC.TCHR.FE,"Secondary education, teachers, female",1977.0,2025.0,30,19.0,33511.0
+People,SE.SEC.TCAQ.UP.MA.ZS,"Trained teachers in upper secondary education, male (% of male teachers)",2008.0,2025.0,13,5.0,98.21
+People,SE.SEC.TCAQ.LO.MA.ZS,"Trained teachers in lower secondary education, male (% of male teachers)",1999.0,2025.0,20,7.0,97.0
+People,SE.SEC.PROG.MA.ZS,"Progression to secondary school, male (%)",1991.0,2016.0,12,14.0,84.07
+People,SE.SEC.NENR.FE,"School enrollment, secondary, female (% net)",2007.0,2019.0,5,8.0,62.82
+People,SE.SEC.ENRR,"School enrollment, secondary (% gross)",1981.0,2024.0,40,4.0,90.39
+People,SE.SEC.ENRL.TC.ZS,"Pupil-teacher ratio, secondary",1972.0,2019.0,40,8.0,28.26
+People,SE.SEC.ENRL.FE.ZS,"Secondary education, pupils (% female)",1972.0,2019.0,44,4.0,51.43
+People,SE.SEC.CUAT.UP.MA.ZS,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",1971.0,2021.0,6,45.0,16.44
+People,SE.SEC.CUAT.PO.FE.ZS,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",1971.0,2017.0,6,41.0,7.84
+People,SE.SEC.CMPT.LO.ZS,"Lower secondary completion rate, total (% of relevant age group)",1988.0,2025.0,24,14.0,98.25
+People,SE.PRM.UNER.ZS,Children out of school (% of primary school age),1983.0,2025.0,18,25.0,0.76
+People,SE.PRM.UNER.FE,"Children out of school, primary, female",1983.0,2025.0,8,35.0,19465.0
+People,SE.PRM.TENR,"Adjusted net enrollment rate, primary (% of primary school age children)",1983.0,2019.0,14,23.0,96.3
+People,SE.PRM.TCAQ.MA.ZS,"Trained teachers in primary education, male (% of male teachers)",1999.0,2025.0,22,5.0,95.6
+People,SE.PRM.REPT.FE.ZS,"Repeaters, primary, female (% of female enrollment)",1992.0,2019.0,21,7.0,7.34
+People,SE.PRM.PRS5.ZS,"Persistence to grade 5, total (% of cohort)",1991.0,2016.0,11,15.0,73.55
+People,SE.PRM.OENR.ZS,"Over-age students, primary (% of enrollment)",1988.0,2019.0,12,20.0,27.96
+People,SE.PRM.NINT.MA.ZS,"Net intake rate in grade 1, male (% of official school-age population)",,,0,,
+People,SE.PRM.NENR,"School enrollment, primary (% net)",1983.0,2019.0,14,23.0,96.3
+People,SE.PRM.ENRR.MA,"School enrollment, primary, male (% gross)",1970.0,2025.0,43,13.0,130.59
+People,SE.PRM.ENRL.FE.ZS,"Primary education, pupils (% female)",1970.0,2019.0,46,4.0,50.61
+People,SE.PRM.CUAT.MA.ZS,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",2001.0,2021.0,6,15.0,58.99
+People,SE.PRM.CMPT.FE.ZS,"Primary completion rate, female (% of relevant age group)",1992.0,2025.0,22,12.0,108.87
+People,SE.PRE.TCAQ.FE.ZS,"Trained teachers in preprimary education, female (% of female teachers)",2010.0,2025.0,12,4.0,37.11
+People,SE.PRE.ENRL.TC.ZS,"Pupil-teacher ratio, preprimary",1983.0,2019.0,15,22.0,18.61
+People,SE.LPV.PRIM.SD,Primary school age children out-of-school (%),,,0,,
+People,SE.LPV.PRIM.LD,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,0,,
+People,SE.ENR.SECO.FM.ZS,"School enrollment, secondary (gross), gender parity index (GPI)",1981.0,2022.0,38,4.0,0.99
+People,SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)",1981.0,2019.0,8,31.0,68.71
+People,SE.ADT.1524.LT.MA.ZS,"Literacy rate, youth male (% of males ages 15-24)",1981.0,2019.0,9,30.0,96.81
+Other,per_si_allsi.cov_q5_tot,Coverage of social insurance programs in richest quintile (% of population),2010.0,2010.0,1,0.0,12.18
+Other,per_si_allsi.cov_q1_tot,Coverage of social insurance programs in poorest quintile (% of population),2010.0,2010.0,1,0.0,0.57
+Other,per_sa_allsa.cov_q5_tot,Coverage of social safety net programs in richest quintile (% of population),2010.0,2010.0,1,0.0,28.69
+Other,per_sa_allsa.cov_q1_tot,Coverage of social safety net programs in poorest quintile (% of population),2010.0,2010.0,1,0.0,48.95
+Other,per_lm_alllm.cov_q5_tot,Coverage of unemployment benefits and ALMP in richest quintile (% of population),,,0,,
+Other,per_lm_alllm.cov_q1_tot,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),,,0,,
+Other,per_allsp.cov_pop_tot,Coverage of social protection and labor programs (% of population),2010.0,2010.0,1,0.0,43.49
+Other,PA.NUS.PRVT.PLI,Price level index (Households and NPISHs Final consumption expenditure),1990.0,2025.0,36,0.0,25.88
+Other,PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),1960.0,2025.0,66,0.0,136.29
+Other,NY.TRF.NCTR.CD,Net secondary income (Net current transfers from abroad) (current US$),1976.0,2025.0,50,0.0,13752142522.03
+People,SE.SEC.UNER.LO.FE.ZS,"Adolescents out of school, female (% of female lower secondary school age)",2016.0,2024.0,6,3.0,4.81
+People,SE.SEC.TCAQ.ZS,Trained teachers in secondary education (% of total teachers),2008.0,2025.0,14,4.0,97.44
+People,SE.SEC.TCAQ.MA.ZS,"Trained teachers in secondary education, male (% of male teachers)",2008.0,2025.0,13,5.0,97.7
+People,SE.SEC.TCAQ.FE.ZS,"Trained teachers in secondary education, female (% of female teachers)",2008.0,2025.0,13,5.0,96.73
+People,SE.SEC.PRIV.ZS,"School enrollment, secondary, private (% of total secondary)",2001.0,2020.0,3,17.0,23.77
+People,SE.SEC.ENRR.MA,"School enrollment, secondary, male (% gross)",1981.0,2024.0,40,4.0,89.91
+People,SE.SEC.ENRL.VO,"Secondary education, vocational pupils",1972.0,2019.0,15,33.0,42255.0
+People,SE.SEC.ENRL.GC.FE.ZS,"Secondary education, general pupils (% female)",1970.0,2019.0,21,29.0,51.43
+People,SE.SEC.DURS,"Secondary education, duration (years)",1970.0,2025.0,47,9.0,7.0
+People,SE.SEC.CUAT.PO.ZS,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",1971.0,2017.0,6,41.0,11.71
+People,SE.SEC.CUAT.LO.MA.ZS,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",1971.0,2021.0,8,43.0,43.19
+People,SE.SEC.CMPT.LO.FE.ZS,"Lower secondary completion rate, female (% of relevant age group)",1992.0,2025.0,22,12.0,101.35
+People,SE.PRM.UNER.MA,"Children out of school, primary, male",1983.0,2025.0,8,35.0,1681.0
+People,SE.PRM.TENR.MA,"Adjusted net enrollment rate, primary, male (% of primary school age children)",1983.0,2004.0,7,15.0,85.97
+People,SE.PRM.TCHR,"Primary education, teachers",1970.0,2025.0,52,4.0,157456.0
+People,SE.PRM.REPT.ZS,"Repeaters, primary, total (% of total enrollment)",1988.0,2019.0,23,9.0,7.6
+People,SE.PRM.PRSL.MA.ZS,"Persistence to last grade of primary, male (% of cohort)",1991.0,2016.0,11,15.0,73.69
+People,SE.PRM.PRS5.FE.ZS,"Persistence to grade 5, female (% of cohort)",1991.0,2016.0,11,15.0,73.41
+People,SE.PRM.OENR.FE.ZS,"Over-age students, primary, female (% of female enrollment)",1988.0,2019.0,12,20.0,31.2
+People,SE.PRM.NENR.MA,"School enrollment, primary, male (% net)",1983.0,2004.0,7,15.0,85.97
+People,SE.PRM.GINT.MA.ZS,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",1992.0,2019.0,22,6.0,145.7
+People,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970.0,2025.0,44,12.0,128.56
+People,SE.PRM.DURS,"Primary education, duration (years)",1970.0,2025.0,47,9.0,5.0
+People,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",1988.0,2025.0,24,14.0,109.44
+People,SE.PRE.TCAQ.ZS,Trained teachers in preprimary education (% of total teachers),2010.0,2025.0,12,4.0,37.93
+People,SE.PRE.ENRR.FE,"School enrollment, preprimary, female (% gross)",1983.0,2022.0,24,16.0,88.08
+People,SE.LPV.PRIM.SD.MA,Male primary school age children out-of-school (%),,,0,,
+People,SE.LPV.PRIM.LD.MA,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,0,,
+People,SE.LPV.PRIM,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,0,,
+People,SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)",1970.0,2022.0,40,13.0,0.92
+People,SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)",1981.0,2019.0,8,31.0,59.41
+People,SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)",1981.0,2019.0,9,30.0,92.07
+Other,per_si_allsi.cov_q3_tot,Coverage of social insurance programs in 3rd quintile (% of population),2010.0,2010.0,1,0.0,4.37
+Other,per_si_allsi.ben_q1_tot,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),2010.0,2010.0,1,0.0,0.46
+Other,per_sa_allsa.cov_q3_tot,Coverage of social safety net programs in 3rd quintile (% of population),2010.0,2010.0,1,0.0,39.85
+Other,per_sa_allsa.ben_q1_tot,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),2010.0,2010.0,1,0.0,15.73
+Other,per_lm_alllm.cov_q3_tot,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),,,0,,
+Other,per_lm_alllm.ben_q1_tot,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),,,0,,
+Other,per_allsp.adq_pop_tot,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),2010.0,2010.0,1,0.0,5.95
+Other,NY.GNP.PCAP.KN,GNI per capita (constant LCU),2001.0,2025.0,25,0.0,100839.96
+Other,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",1962.0,2025.0,64,0.0,1570.0
+Other,NY.GNP.MKTP.KD.ZG,GNI growth (annual %),2002.0,2025.0,24,0.0,4.04
+Other,NY.GNP.MKTP.CD,GNI (current US$),1960.0,2025.0,66,0.0,46065540648.19
+Other,NY.GDS.TOTL.CN,Gross domestic savings (current LCU),1975.0,2025.0,51,0.0,427159150825.88
+Economy,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",1990.0,2025.0,36,0.0,5276.92
+Economy,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1960.0,2025.0,66,0.0,1233.61
+Economy,NY.GDP.MKTP.PP.KD,"GDP, PPP (constant 2021 international $)",1990.0,2025.0,36,0.0,156292554073.57
+Economy,NY.GDP.MKTP.KD,GDP (constant 2015 US$),1960.0,2025.0,66,0.0,36537085383.28
+Economy,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),1970.0,2021.0,52,0.0,0.0
+Economy,NY.GDP.FCST.CN,Gross value added at basic prices (GVA) (current LCU),1960.0,2025.0,66,0.0,5454411655267.23
+Economy,NY.GDP.DEFL.ZS.AD,GDP deflator: linked series (base year varies by country),1990.0,2025.0,36,0.0,221.96
+Economy,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),1971.0,2021.0,51,0.0,0.01
+Other,NY.ADJ.SVNG.GN.ZS,"Adjusted net savings, including particulate emission damage (% of GNI)",1990.0,2021.0,32,0.0,24.42
+Other,NY.ADJ.NNTY.PC.CD,Adjusted net national income per capita (current US$),1971.0,2021.0,51,0.0,1148.16
+Other,NY.ADJ.NNAT.GN.ZS,Adjusted savings: net national savings (% of GNI),1976.0,2021.0,46,0.0,25.74
+Other,NY.ADJ.DPEM.GN.ZS,Adjusted savings: particulate emission damage (% of GNI),1990.0,2021.0,32,0.0,1.7
+Other,NY.ADJ.DMIN.GN.ZS,Adjusted savings: mineral depletion (% of GNI),1970.0,2021.0,52,0.0,0.0
+Other,NY.ADJ.DFOR.GN.ZS,Adjusted savings: net forest depletion (% of GNI),1970.0,2021.0,52,0.0,0.49
+Other,NY.ADJ.AEDU.GN.ZS,Adjusted savings: education expenditure (% of GNI),1970.0,2021.0,52,0.0,2.89
+Economy,NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)",1966.0,2025.0,60,0.0,4.36
+Economy,NV.SRV.EMPL.KD,"Services, value added per worker (constant 2015 US$)",1991.0,2025.0,35,0.0,5386.96
+Economy,NV.MNF.MTRN.ZS.UN,Machinery and transport equipment (% of value added in manufacturing),1990.0,2022.0,15,18.0,1.02
+Economy,NV.IND.TOTL.KN,"Industry (including construction), value added (constant LCU)",1973.0,2025.0,53,0.0,394943133189.47
+Economy,NV.IND.TOTL.CD,"Industry (including construction), value added (current US$)",1965.0,2025.0,61,0.0,5481768838.48
+Economy,NV.IND.MANF.KD,"Manufacturing, value added (constant 2015 US$)",1973.0,2025.0,53,0.0,1667162374.47
+Economy,NV.FSM.TOTL.KN,Financial intermediary services indirectly Measured (FISIM) (constant LCU),,,0,,
+Economy,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",1966.0,2025.0,60,0.0,3.05
+Economy,NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",1991.0,2025.0,35,0.0,5039.37
+External,NE.RSB.GNFS.CN,External balance on goods and services (current LCU),1965.0,2025.0,61,0.0,-1543566630013.01
+External,NE.IMP.GNFS.KD.ZG,Imports of goods and services (annual % growth),2002.0,2025.0,24,0.0,6.29
+External,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),1965.0,2025.0,61,0.0,29.4
+Other,NY.GNP.PCAP.PP.KD,"GNI per capita, PPP (constant 2021 international $)",2001.0,2025.0,25,0.0,5351.49
+Other,NY.GNP.PCAP.KD,GNI per capita (constant 2015 US$),2001.0,2025.0,25,0.0,1306.57
+Other,NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)",1990.0,2025.0,36,0.0,185211371830.8
+Other,NY.GNP.MKTP.CN.AD,GNI: linked series (current LCU),1990.0,2025.0,36,0.0,6278332143751.29
+Other,NY.GDY.TOTL.KN,Gross domestic income (constant LCU),2001.0,2025.0,25,0.0,2831203236292.5
+Economy,NY.GDP.TOTL.RT.ZS,Total natural resources rents (% of GDP),1970.0,2021.0,52,0.0,0.5
+Economy,NY.GDP.PCAP.KN,GDP per capita (constant LCU),1960.0,2025.0,66,0.0,94307.87
+Economy,NY.GDP.PCAP.CD,GDP per capita (current US$),1960.0,2025.0,66,0.0,1535.88
+Economy,NY.GDP.MKTP.KN,GDP (constant LCU),1960.0,2025.0,66,0.0,2793221497100.0
+Economy,NY.GDP.MKTP.CN,GDP (current LCU),1960.0,2025.0,66,0.0,6199865107300.0
+Economy,NY.GDP.FCST.KN,Gross value added at basic prices (GVA) (constant LCU),1965.0,2025.0,61,0.0,2484991006412.06
+Economy,NY.GDP.DISC.KN,Discrepancy in expenditure estimate of GDP (constant LCU),2011.0,2025.0,15,0.0,257944886400.0
+Economy,NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series (annual %)",1990.0,2025.0,36,0.0,3.07
+Other,NY.ADJ.SVNX.GN.ZS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",1990.0,2021.0,32,0.0,26.12
+Other,NY.ADJ.NNTY.PC.KD.ZG,Adjusted net national income per capita (annual % growth),2002.0,2021.0,20,0.0,5.57
+Other,NY.ADJ.NNTY.KD,Adjusted net national income (constant 2015 US$),2001.0,2021.0,21,0.0,30844359289.2
+Other,NY.ADJ.ICTR.GN.ZS,Adjusted savings: gross savings (% of GNI),1976.0,2021.0,46,0.0,32.5
+Other,NY.ADJ.DNGY.GN.ZS,Adjusted savings: energy depletion (% of GNI),1971.0,2021.0,51,0.0,0.0
+Other,NY.ADJ.DKAP.GN.ZS,Adjusted savings: consumption of fixed capital (% of GNI),1970.0,2021.0,52,0.0,6.75
+Other,NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI),1990.0,2021.0,32,0.0,2.02
+Economy,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",1960.0,2025.0,66,0.0,54.37
+Economy,NV.SRV.TOTL.CN,"Services, value added (current LCU)",1960.0,2025.0,66,0.0,3370738911443.07
+Economy,NV.MNF.TECH.ZS.UN,Medium and high-tech manufacturing value added (% manufacturing value added),1990.0,2024.0,35,0.0,10.52
+Economy,NV.MNF.CHEM.ZS.UN,Chemicals (% of value added in manufacturing),1986.0,2022.0,20,17.0,7.88
+Economy,NV.IND.TOTL.KD,"Industry (including construction), value added (constant 2015 US$)",1973.0,2025.0,53,0.0,5084084855.36
+Economy,NV.IND.MANF.KN,"Manufacturing, value added (constant LCU)",1973.0,2025.0,53,0.0,129249258785.25
+Economy,NV.IND.MANF.CD,"Manufacturing, value added (current US$)",1965.0,2025.0,61,0.0,2266413322.05
+Economy,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",1965.0,2025.0,61,0.0,21.56
+Economy,NV.AGR.TOTL.CN,"Agriculture, forestry, and fishing, value added (current LCU)",1965.0,2025.0,61,0.0,1336555375418.64
+External,NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP),1965.0,2025.0,61,0.0,-24.9
+Other,NY.GSR.NFCY.KN,Net primary income (Net income from abroad) (constant LCU),,,0,,
+Other,NY.GNS.ICTR.GN.ZS,Gross savings (% of GNI),1976.0,2025.0,50,0.0,42.52
+Other,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",1990.0,2025.0,36,0.0,6250.0
+Other,NY.GNP.PCAP.CN,GNI per capita (current LCU),1960.0,2025.0,66,0.0,211976.07
+Other,NY.GNP.MKTP.KN,GNI (constant LCU),2001.0,2025.0,25,0.0,2986689976059.11
+Other,NY.GNP.MKTP.CN,GNI (current LCU),1960.0,2025.0,66,0.0,6278332143751.28
+Other,NY.GDS.TOTL.ZS,Gross domestic savings (% of GDP),1975.0,2025.0,51,0.0,6.89
+Economy,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),1971.0,2021.0,51,0.0,0.0
+Economy,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1961.0,2025.0,65,0.0,4.55
+Economy,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),1971.0,2021.0,51,0.0,0.0
+Economy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1961.0,2025.0,65,0.0,4.43
+Economy,NY.GDP.MKTP.CD,GDP (current US$),1960.0,2025.0,66,0.0,45489810283.11
+Economy,NY.GDP.FCST.KD,Gross value added at basic prices (GVA) (constant 2015 US$),1965.0,2025.0,61,0.0,32119373297.68
+Economy,NY.GDP.DISC.CN,Discrepancy in expenditure estimate of GDP (current LCU),1975.0,2025.0,51,0.0,147732385018.72
+Economy,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",1961.0,2025.0,65,0.0,3.07
+Other,NY.ADJ.SVNX.CD,"Adjusted net savings, excluding particulate emission damage (current US$)",1990.0,2021.0,32,0.0,9531545207.46
+Other,NY.ADJ.NNTY.PC.KD,Adjusted net national income per capita (constant 2015 US$),2001.0,2021.0,21,0.0,1046.46
+Other,NY.ADJ.NNTY.CD,Adjusted net national income (current US$),1971.0,2021.0,51,0.0,33841986561.91
+Other,NY.ADJ.DRES.GN.ZS,Adjusted savings: natural resources depletion (% of GNI),1971.0,2021.0,51,0.0,0.49
+Other,NY.ADJ.DNGY.CD,Adjusted savings: energy depletion (current US$),1971.0,2021.0,51,0.0,1017001.54
+Other,NY.ADJ.DKAP.CD,Adjusted savings: consumption of fixed capital (current US$),1970.0,2021.0,52,0.0,2464523873.44
+Other,NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$),1990.0,2021.0,32,0.0,737047832.37
+Economy,NV.SRV.TOTL.KN,"Services, value added (constant LCU)",1965.0,2025.0,61,0.0,1365036912098.02
+Economy,NV.SRV.TOTL.CD,"Services, value added (current US$)",1960.0,2025.0,66,0.0,24731872539.44
+Economy,NV.MNF.OTHR.ZS.UN,Other manufacturing (% of value added in manufacturing),1986.0,2022.0,20,17.0,51.89
+Economy,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",1965.0,2025.0,61,0.0,12.05
+Economy,NV.IND.TOTL.CN,"Industry (including construction), value added (current LCU)",1965.0,2025.0,61,0.0,747117368405.52
+Economy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",1974.0,2025.0,52,0.0,2.27
+Economy,NV.IND.EMPL.KD,"Industry (including construction), value added per worker (constant 2015 US$)",1991.0,2025.0,35,0.0,2170.76
+Economy,NV.AGR.TOTL.KN,"Agriculture, forestry, and fishing, value added (constant LCU)",1965.0,2025.0,61,0.0,725010961124.57
+Economy,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",1965.0,2025.0,61,0.0,9806608596.87
+External,NE.RSB.GNFS.KN,External balance on goods and services (constant LCU),2011.0,2025.0,15,0.0,-845587925500.0
+External,NE.IMP.GNFS.KN,Imports of goods and services (constant LCU),2001.0,2025.0,25,0.0,1093958565200.0
+External,NE.IMP.GNFS.CD,Imports of goods and services (current US$),1965.0,2025.0,61,0.0,15341170693.8
+External,NE.GDI.TOTL.KD,Gross capital formation (constant 2015 US$),2001.0,2025.0,25,0.0,11894261427.09
+Other,PA.NUS.GDP.PLI,Price level index (GDP),1990.0,2025.0,36,0.0,24.87
+Other,NY.TRF.NCTR.KN,Net secondary income (Net current transfers from abroad) (constant LCU),2001.0,2009.0,9,0.0,130291111746.89
+Other,NY.TAX.NIND.CN,Taxes less subsidies on products (current LCU),1960.0,2025.0,66,0.0,745453451992.83
+Other,NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$),1960.0,2025.0,66,0.0,575730365.43
+Other,NY.GNS.ICTR.CD,Gross savings (current US$),1976.0,2025.0,50,0.0,19585457503.21
+Other,NY.GNP.PCAP.KD.ZG,GNI per capita growth (annual %),2002.0,2025.0,24,0.0,4.15
+Other,NY.GNP.MKTP.PP.KD,"GNI, PPP (constant 2021 international $)",2001.0,2025.0,25,0.0,158501176171.34
+Other,NY.GNP.MKTP.KD,GNI (constant 2015 US$),2001.0,2025.0,25,0.0,38698235928.94
+Other,NY.GNP.ATLS.CD,"GNI, Atlas method (current US$)",1962.0,2025.0,64,0.0,46491459103.93
+Other,NY.GDS.TOTL.CD,Gross domestic savings (current US$),1975.0,2025.0,51,0.0,3134163146.37
+Economy,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",1990.0,2025.0,36,0.0,6175.16
+Economy,NY.GDP.PCAP.CN,GDP per capita (current LCU),1960.0,2025.0,66,0.0,209326.77
+Economy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",1990.0,2025.0,36,0.0,182896587086.72
+Economy,NY.GDP.MKTP.CN.AD,GDP: linked series (current LCU),1990.0,2025.0,36,0.0,6199865107300.01
+Economy,NY.GDP.FRST.RT.ZS,Forest rents (% of GDP),1970.0,2021.0,52,0.0,0.49
+Economy,NY.GDP.FCST.CD,Gross value added at basic prices (GVA) (current US$),1960.0,2025.0,66,0.0,40020249974.79
+Economy,NY.GDP.DEFL.ZS,GDP deflator (base year varies by country),1960.0,2025.0,66,0.0,221.96
+Other,NY.EXP.CAPM.KN,Exports as a capacity to import (constant LCU),2001.0,2025.0,25,0.0,286352378892.5
+Other,NY.ADJ.SVNG.CD,"Adjusted net savings, including particulate emission damage (current US$)",1990.0,2021.0,32,0.0,8910417207.5
+Other,NY.ADJ.NNTY.KD.ZG,Adjusted net national income (annual % growth),2002.0,2021.0,20,0.0,7.43
+Other,NY.ADJ.NNAT.CD,Adjusted savings: net national savings (current US$),1976.0,2021.0,46,0.0,9393328890.1
+Other,NY.ADJ.DPEM.CD,Adjusted savings: particulate emission damage (current US$),1990.0,2021.0,32,0.0,621127999.96
+Other,NY.ADJ.DMIN.CD,Adjusted savings: mineral depletion (current US$),1970.0,2021.0,52,0.0,0.0
+Other,NY.ADJ.DFOR.CD,Adjusted savings: net forest depletion (current US$),1970.0,2021.0,52,0.0,178858443.51
+Other,NY.ADJ.AEDU.CD,Adjusted savings: education expenditure (current US$),1970.0,2021.0,52,0.0,1055139594.78
+Economy,NV.SRV.TOTL.KD,"Services, value added (constant 2015 US$)",1965.0,2025.0,61,0.0,18476995932.69
+Economy,NV.MNF.TXTL.ZS.UN,Textiles and clothing (% of value added in manufacturing),1986.0,2022.0,20,17.0,6.51
+Economy,NV.MNF.FBTO.ZS.UN,"Food, beverages and tobacco (% of value added in manufacturing)",1986.0,2022.0,20,17.0,32.7
+Economy,NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)",1974.0,2025.0,52,0.0,3.31
+Economy,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",1965.0,2025.0,61,0.0,4.98
+Economy,NV.IND.MANF.CN,"Manufacturing, value added (current LCU)",1965.0,2025.0,61,0.0,308892404401.38
+External,NE.GDI.TOTL.CN,Gross capital formation (current LCU),1965.0,2025.0,61,0.0,1822993395820.17
+External,NE.GDI.STKB.CD,Changes in inventories (current US$),1975.0,2025.0,51,0.0,2652776083.98
+External,NE.GDI.FTOT.KD,Gross fixed capital formation (constant 2015 US$),2001.0,2025.0,25,0.0,9493583100.03
+External,NE.GDI.FPRV.CN,"Gross fixed capital formation, private sector (current LCU)",1975.0,2025.0,51,0.0,964839423207.45
+External,NE.EXP.GNFS.KD,Exports of goods and services (constant 2015 US$),2001.0,2025.0,25,0.0,3102351199.76
+External,NE.DAB.TOTL.KN,Gross national expenditure (constant LCU),2001.0,2025.0,25,0.0,3380864536200.0
+External,NE.DAB.DEFL.ZS,Gross national expenditure deflator (base year varies by country),2001.0,2025.0,25,0.0,224.67
+External,NE.CON.TOTL.KD,Final consumption expenditure (constant 2015 US$),2001.0,2025.0,25,0.0,33578417098.85
+External,NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",2001.0,2025.0,25,0.0,122293178277.38
+External,NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure (constant LCU),2001.0,2025.0,25,0.0,2215622830600.0
+External,NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure (current LCU),1975.0,2025.0,51,0.0,5252848985426.8
+External,NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP),1975.0,2025.0,51,0.0,8.38
+External,NE.CON.GOVT.CN,General government final consumption expenditure (current LCU),1975.0,2025.0,51,0.0,519856971047.31
+Other,MS.MIL.XPND.GD.ZS,Military expenditure (% of GDP),1970.0,2025.0,56,0.0,0.97
+Other,MS.MIL.TOTL.P1,"Armed forces personnel, total",1985.0,2020.0,33,3.0,112000.0
+Other,LP.LPI.OVRL.XQ,Logistics performance index: Overall (1=low to 5=high),2007.0,2018.0,6,6.0,2.51
+Other,LP.LPI.CUST.XQ,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),2007.0,2018.0,6,6.0,2.29
+People,IT.NET.USER.MA.ZS,"Individuals using the Internet, male (% of male population)",,,0,,
+People,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2006.0,2024.0,19,0.0,10.07
+People,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),1960.0,2024.0,53,12.0,99.85
+Other,IS.RRS.TOTL.KM,Rail lines (total route-km),,,0,,
+Other,IS.AIR.GOOD.MT.K1,"Air transport, freight (million ton-km)",1970.0,2023.0,54,0.0,16.93
+Other,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),2005.0,2024.0,20,0.0,79.11
+Other,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",2005.0,2025.0,21,0.0,2.5
+Other,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.5
+Other,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),2005.0,2025.0,21,0.0,4.5
+Other,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+External,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),1965.0,2025.0,61,0.0,33.72
+External,NE.IMP.GNFS.CN,Imports of goods and services (current LCU),1965.0,2025.0,61,0.0,2090868005333.35
+External,NE.GDI.TOTL.KD.ZG,Gross capital formation (annual % growth),2002.0,2025.0,24,0.0,3.04
+External,NE.GDI.STKB.KN,Changes in inventories (constant LCU),2001.0,2025.0,25,0.0,189165949400.0
+External,NE.GDI.FTOT.KN,Gross fixed capital formation (constant LCU),2001.0,2025.0,25,0.0,758681023500.0
+External,NE.GDI.FTOT.CD,Gross fixed capital formation (current US$),1975.0,2025.0,51,0.0,10722938111.09
+External,NE.EXP.GNFS.KN,Exports of goods and services (constant LCU),2001.0,2025.0,25,0.0,248370639700.0
+External,NE.EXP.GNFS.CD,Exports of goods and services (current US$),1965.0,2025.0,61,0.0,4015673776.79
+External,NE.DAB.TOTL.CN,Gross national expenditure (current LCU),1975.0,2025.0,51,0.0,7595699352294.29
+External,NE.CON.TOTL.KN,Final consumption expenditure (constant LCU),2001.0,2025.0,25,0.0,2433017563400.0
+External,NE.CON.TOTL.CD,Final consumption expenditure (current US$),1975.0,2025.0,51,0.0,42355647136.74
+External,NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth (annual %),2002.0,2025.0,24,0.0,2.5
+External,NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure (constant 2015 US$),2001.0,2025.0,25,0.0,30555826835.22
+External,NE.CON.PCAP.PP.KD,"Households and NPISHs Final consumption expenditure per capita, PPP (constant 2021 international $)",2001.0,2025.0,25,0.0,4129.0
+External,NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth),2002.0,2025.0,24,0.0,12.02
+Other,MS.MIL.XPRT.KD,Arms exports (SIPRI trend indicator values),,,0,,
+Other,MS.MIL.XPND.CD,Military expenditure (current USD),1970.0,2025.0,56,0.0,428290814.13
+Other,LP.LPI.TRAC.XQ,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),2007.0,2018.0,6,6.0,2.65
+Other,LP.LPI.ITRN.XQ,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),2007.0,2018.0,6,6.0,2.36
+Other,LP.EXP.DURS.MD,"Lead time to export, median case (days)",2007.0,2018.0,4,8.0,1.0
+People,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),2010.0,2024.0,15,0.0,541.23
+People,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),1975.0,2024.0,50,0.0,1.38
+Other,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),,,0,,
+Other,IS.RRS.GOOD.MT.K6,"Railways, goods transported (million ton-km)",,,0,,
+Other,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),2016.0,2024.0,9,0.0,50.0
+Other,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),2004.0,2024.0,21,0.0,60.0
+Other,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),2005.0,2025.0,21,0.0,3.83
+Other,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),2005.0,2025.0,21,0.0,3.33
+External,NE.GDI.STKB.CN,Changes in inventories (current LCU),1975.0,2025.0,51,0.0,361550285177.26
+External,NE.GDI.FTOT.KD.ZG,Gross fixed capital formation (annual % growth),2002.0,2025.0,24,0.0,-4.06
+External,NE.GDI.FPRV.ZS,"Gross fixed capital formation, private sector (% of GDP)",1975.0,2025.0,51,0.0,15.56
+External,NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth),2002.0,2025.0,24,0.0,22.23
+External,NE.DAB.TOTL.ZS,Gross national expenditure (% of GDP),1975.0,2025.0,51,0.0,122.51
+External,NE.DAB.TOTL.CD,Gross national expenditure (current US$),1975.0,2025.0,51,0.0,55731361331.81
+External,NE.CON.TOTL.KD.ZG,Final consumption expenditure (annual % growth),2002.0,2025.0,24,0.0,3.18
+External,NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure (% of GDP),1975.0,2025.0,51,0.0,84.73
+External,NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),2001.0,2025.0,25,0.0,1031.66
+External,NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series (current LCU),1990.0,2025.0,36,0.0,5252848985426.81
+External,NE.CON.PCAP.PP.CD,"Households and NPISHs Final consumption expenditure per capita, PPP (current international $)",1990.0,2025.0,36,0.0,5028.38
+External,NE.CON.GOVT.KD,General government final consumption expenditure (constant 2015 US$),2001.0,2025.0,25,0.0,3021199343.36
+Other,MS.MIL.XPND.ZS,Military expenditure (% of general government expenditure),2000.0,2025.0,26,0.0,4.48
+Other,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),1990.0,2020.0,31,0.0,1.4
+Other,LP.LPI.TIME.XQ,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),2007.0,2018.0,6,6.0,3.1
+Other,LP.LPI.INFR.XQ,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),2007.0,2018.0,6,6.0,2.19
+People,IT.NET.USER.ZS,Individuals using the Internet (% of population),1990.0,2024.0,35,0.0,46.32
+People,IT.NET.SECR,Secure Internet servers,2010.0,2024.0,15,0.0,16048.0
+People,IT.MLT.MAIN,Fixed telephone subscriptions,1975.0,2024.0,50,0.0,407925.0
+Other,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),,,0,,
+Other,IS.AIR.PSGR,"Air transport, passengers carried",1970.0,2023.0,54,0.0,4289298.0
+Other,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),2015.0,2024.0,10,0.0,46.5
+Other,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),2016.0,2024.0,9,0.0,60.37
+Other,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),2005.0,2025.0,21,0.0,3.5
+Other,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),2005.0,2025.0,21,0.0,3.37
+Other,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),2005.0,2025.0,21,0.0,4.0
+Other,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),2005.0,2025.0,21,0.0,4.0
+Economy,NV.FSM.TOTL.CN,Financial intermediary services indirectly Measured (FISIM) (current LCU),2001.0,2010.0,10,0.0,35156285900.0
+Economy,NV.AGR.TOTL.KD,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",1965.0,2025.0,61,0.0,8645297403.23
+External,NE.TRD.GNFS.ZS,Trade (% of GDP),1965.0,2025.0,61,0.0,42.55
+External,NE.RSB.GNFS.CD,External balance on goods and services (current US$),1965.0,2025.0,61,0.0,-11325496917.02
+External,NE.IMP.GNFS.KD,Imports of goods and services (constant 2015 US$),2001.0,2025.0,25,0.0,14021643963.69
+External,NE.GDI.TOTL.KN,Gross capital formation (constant LCU),2001.0,2025.0,25,0.0,947846972800.0
+External,NE.GDI.TOTL.CD,Gross capital formation (current US$),1965.0,2025.0,61,0.0,13375714195.07
+External,NE.GDI.FTOT.ZS,Gross fixed capital formation (% of GDP),1975.0,2025.0,51,0.0,23.57
+External,NE.GDI.FTOT.CN,Gross fixed capital formation (current LCU),1975.0,2025.0,51,0.0,1461443110642.92
+External,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),1965.0,2025.0,61,0.0,8.83
+External,NE.EXP.GNFS.CN,Exports of goods and services (current LCU),1965.0,2025.0,61,0.0,547301375320.34
+External,NE.DAB.TOTL.KD,Gross national expenditure (constant 2015 US$),2001.0,2025.0,25,0.0,45472678525.94
+External,NE.CON.TOTL.ZS,Final consumption expenditure (% of GDP),1975.0,2025.0,51,0.0,93.11
+External,NE.CON.TOTL.CN,Final consumption expenditure (current LCU),1975.0,2025.0,51,0.0,5772705956474.12
+External,NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP (current international $)",1990.0,2025.0,36,0.0,148931128319.8
+External,NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure (annual % growth),2002.0,2025.0,24,0.0,2.39
+External,NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure (current US$),1975.0,2025.0,51,0.0,38541339151.32
+External,NE.CON.GOVT.KN,General government final consumption expenditure (constant LCU),2001.0,2025.0,25,0.0,217394732800.0
+External,NE.CON.GOVT.CD,General government final consumption expenditure (current US$),1975.0,2025.0,51,0.0,3814307985.42
+Other,MS.MIL.XPND.CN,Military expenditure (current LCU),1970.0,2025.0,56,0.0,59698600000.0
+Other,MS.MIL.MPRT.KD,Arms imports (SIPRI trend indicator values),1965.0,2025.0,30,31.0,6000000.0
+Other,LP.LPI.LOGS.XQ,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),2007.0,2018.0,6,6.0,2.46
+Other,LP.IMP.DURS.MD,"Lead time to import, median case (days)",2007.0,2018.0,5,7.0,2.0
+People,IT.NET.USER.FE.ZS,"Individuals using the Internet, female (% of female population)",,,0,,
+People,IT.NET.BBND,Fixed broadband subscriptions,2006.0,2024.0,19,0.0,2984561.0
+People,IT.CEL.SETS,Mobile cellular subscriptions,1960.0,2024.0,53,12.0,29605730.0
+Other,IS.RRS.PASG.KM,"Railways, passengers carried (million passenger-km)",,,0,,
+Other,IS.AIR.DPRT,"Air transport, registered carrier departures worldwide",1970.0,2023.0,54,0.0,67501.0
+Other,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),2016.0,2024.0,9,0.0,66.23
+Other,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),2005.0,2025.0,21,0.0,4.0
+Other,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),2005.0,2025.0,21,0.0,2.8
+Other,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),2005.0,2025.0,21,0.0,2.5
+Other,VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)",1990.0,2020.0,25,6.0,2.13
+Other,VC.IDP.NWCV,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",2009.0,2017.0,2,7.0,2.0
+External,TX.VAL.TECH.MF.ZS,High-technology exports (% of manufactured exports),2009.0,2022.0,14,0.0,0.62
+External,TX.VAL.MRCH.XD.WD,Export value index (2015 = 100),2005.0,2024.0,20,0.0,185.2
+External,TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),1981.0,2023.0,42,1.0,0.13
+External,TX.VAL.MRCH.R2.ZS,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),1982.0,2023.0,29,13.0,0.92
+External,TX.VAL.MRCH.CD.WT,Merchandise exports (current US$),1960.0,2025.0,66,0.0,2311000000.0
+External,TX.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service exports),2002.0,2025.0,24,0.0,1.21
+External,TX.VAL.AGRI.ZS.UN,Agricultural raw materials exports (% of merchandise exports),1974.0,2022.0,33,16.0,1.63
+Other,TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2015 = 100),2005.0,2024.0,20,0.0,100.5
+Other,TM.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service imports)",1976.0,2025.0,50,0.0,8.48
+Other,TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",1981.0,2023.0,43,0.0,0.0
+Other,TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),1983.0,2023.0,39,2.0,1.17
+Other,TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports),1981.0,2023.0,43,0.0,12.63
+Other,TM.VAL.MANF.ZS.UN,Manufactures imports (% of merchandise imports),1974.0,2022.0,33,16.0,52.54
+Other,TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports),1974.0,2022.0,33,16.0,17.96
+Other,TM.TAX.TCOM.WM.AR.ZS,"Tariff rate, applied, weighted mean, primary products (%)",1993.0,2022.0,24,6.0,10.83
+Other,TM.TAX.TCOM.BC.ZS,"Binding coverage, primary products (%)",2004.0,2022.0,18,1.0,0.0
+Other,TM.TAX.MRCH.SM.AR.ZS,"Tariff rate, applied, simple mean, all products (%)",1993.0,2022.0,24,6.0,13.64
+Other,TM.TAX.MANF.WM.AR.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)",1993.0,2022.0,24,6.0,11.07
+Other,TM.TAX.MANF.BC.ZS,"Binding coverage, manufactured products (%)",2004.0,2022.0,18,1.0,0.0
+Other,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",1995.0,2020.0,26,0.0,267000000.0
+Other,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",1995.0,2020.0,26,0.0,41000000.0
+Other,ST.INT.ARVL,"International tourism, number of arrivals",1995.0,2020.0,26,0.0,230000.0
+People,SP.URB.GROW,Urban population growth (annual %),1961.0,2025.0,65,0.0,0.23
+People,SP.REG.DTHS.ZS,Completeness of death registration with cause-of-death information (%),,,0,,
+People,SP.REG.BRTH.MA.ZS,"Completeness of birth registration, male (%)",2006.0,2019.0,4,10.0,76.3
+People,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",1960.0,2025.0,66,0.0,52.29
+People,SP.POP.SCIE.RD.P6,Researchers in R&D (per million people),2002.0,2002.0,1,0.0,59.66
+People,SP.POP.DPND,Age dependency ratio (% of working-age population),1960.0,2025.0,66,0.0,53.08
+People,SP.POP.7579.MA.5Y,"Population ages 75-79, male (% of male population)",1960.0,2025.0,66,0.0,1.17
+People,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),1960.0,2025.0,66,0.0,6.62
+People,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",1960.0,2025.0,66,0.0,6.87
+People,SP.POP.6064.MA.5Y,"Population ages 60-64, male (% of male population)",1960.0,2025.0,66,0.0,3.1
+People,SP.POP.5054.MA.5Y,"Population ages 50-54, male (% of male population)",1960.0,2025.0,66,0.0,4.45
+People,SP.POP.4044.MA.5Y,"Population ages 40-44, male (% of male population)",1960.0,2025.0,66,0.0,5.5
+People,SP.POP.3034.MA.5Y,"Population ages 30-34, male (% of male population)",1960.0,2025.0,66,0.0,7.15
+People,SP.POP.2024.MA.5Y,"Population ages 20-24, male (% of male population)",1960.0,2025.0,66,0.0,9.81
+People,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",1960.0,2025.0,66,0.0,63.46
+People,SP.POP.1519.MA.5Y,"Population ages 15-19, male (% of male population)",1960.0,2025.0,66,0.0,10.35
+People,SP.POP.0509.MA.5Y,"Population ages 05-09, male (% of male population)",1960.0,2025.0,66,0.0,10.04
+People,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",1960.0,2025.0,66,0.0,30.19
+People,SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)",1960.0,2025.0,66,0.0,9.78
+People,SP.M15.2024.FE.ZS,Women who were first married by age 15 (% of women ages 20-24),1996.0,2022.0,6,21.0,5.8
+People,SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)",1960.0,2024.0,65,0.0,77.84
+People,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",1960.0,2024.0,65,0.0,72.14
+People,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",1976.0,2022.0,14,33.0,57.2
+People,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",1960.0,2024.0,65,0.0,178.02
+Other,SN.ITK.SVFI.ZS,Prevalence of severe food insecurity in the population (%),2015.0,2024.0,10,0.0,12.3
+Other,SM.POP.TOTL.ZS,International migrant stock (% of population),1990.0,2024.0,8,27.0,1.6
+People,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1990.0,2024.0,35,0.0,10.07
+People,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1990.0,2021.0,32,0.0,73.7
+People,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1990.0,2022.0,33,0.0,0.0
+People,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1990.0,2024.0,35,0.0,98.7
+People,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",1996.0,2024.0,29,0.0,99.7
+People,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",2000.0,2024.0,25,0.0,64.0
+Other,DT.TDS.DPPG.XP.ZS,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",1976.0,2024.0,49,0.0,8.87
+Other,DT.TDS.DIMF.CD,"IMF repurchases and charges (TDS, current US$)",1976.0,2024.0,49,0.0,20629061.8
+Other,DT.ODA.ODAT.XP.ZS,Net ODA received (% of central government expense),2004.0,2021.0,13,5.0,22.29
+Other,DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI),1960.0,2023.0,64,0.0,2.82
+Other,DT.ODA.OATL.CD,Net official aid received (current US$),,,0,,
+Other,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",2011.0,2023.0,13,0.0,6066505.91
+Other,DT.NFL.UNTA.CD,"Net official flows from UN agencies, UNTA (current US$)",1969.0,2008.0,40,0.0,1139999.99
+Other,DT.NFL.UNID.CD,"Net official flows from UN agencies, UNIDIR (current US$)",,,0,,
+Other,DT.NFL.UNDP.CD,"Net official flows from UN agencies, UNDP (current US$)",1968.0,2022.0,55,0.0,6597064.97
+Other,DT.NFL.UNCF.CD,"Net official flows from UN agencies, UNICEF (current US$)",1970.0,2023.0,54,0.0,7024000.17
+Other,VC.IHR.PSRC.FE.P5,"Intentional homicides, female (per 100,000 female)",,,0,,
+External,TX.VAL.TRVL.ZS.WT,Travel services (% of commercial service exports),1976.0,2025.0,50,0.0,40.68
+External,TX.VAL.SERV.CD.WT,Commercial service exports (current US$),1976.0,2025.0,50,0.0,1575443007.91
+External,TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$),1981.0,2023.0,43,0.0,1207636035.0
+External,TX.VAL.MRCH.R4.ZS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),1981.0,2023.0,39,4.0,0.02
+External,TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),1981.0,2023.0,43,0.0,2.57
+External,TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports),1974.0,2022.0,29,20.0,1.44
+External,TX.VAL.FUEL.ZS.UN,Fuel exports (% of merchandise exports),1985.0,2022.0,16,22.0,0.0
+External,TX.QTY.MRCH.XD.WD,Export volume index (2015 = 100),2005.0,2024.0,20,0.0,138.7
+Other,TM.VAL.TRAN.ZS.WT,Transport services (% of commercial service imports),1976.0,2025.0,50,0.0,21.0
+Other,TM.VAL.MRCH.WR.ZS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),1981.0,2023.0,43,0.0,61.47
+Other,TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),1981.0,2023.0,43,0.0,61.47
+Other,TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),1981.0,2023.0,43,0.0,21.2
+Other,TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports),1981.0,2023.0,40,3.0,4.25
+Other,TM.VAL.ICTG.ZS.UN,ICT goods imports (% total goods imports),2000.0,2022.0,16,7.0,3.27
+Other,TM.UVI.MRCH.XD.WD,Import unit value index (2015 = 100),2000.0,2025.0,26,0.0,134.3
+Other,TM.TAX.TCOM.SM.AR.ZS,"Tariff rate, applied, simple mean, primary products (%)",1993.0,2022.0,24,6.0,20.23
+Other,TM.TAX.MRCH.WM.AR.ZS,"Tariff rate, applied, weighted mean, all products (%)",1993.0,2022.0,24,6.0,11.2
+Other,TM.TAX.MRCH.BC.ZS,"Binding coverage, all products (%)",2004.0,2022.0,18,1.0,0.0
+Other,TM.TAX.MANF.SM.AR.ZS,"Tariff rate, applied, simple mean, manufactured products (%)",1993.0,2022.0,24,6.0,12.85
+Other,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP),1960.0,2025.0,66,0.0,36.73
+Other,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",1995.0,2020.0,26,0.0,197000000.0
+Other,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",1995.0,2020.0,26,0.0,238000000.0
+People,SP.URB.TOTL.IN.ZS,Urban population (% of total population),1960.0,2025.0,66,0.0,67.0
+People,SP.RUR.TOTL.ZG,Rural population growth (annual %),1961.0,2025.0,65,0.0,-0.8
+People,SP.REG.BRTH.UR.ZS,"Completeness of birth registration, urban (%)",2006.0,2019.0,5,9.0,76.1
+People,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",1960.0,2025.0,66,0.0,47.71
+People,SP.POP.TOTL,"Population, total",1960.0,2025.0,66,0.0,29618118.0
+People,SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)",1960.0,2025.0,66,0.0,42.94
+People,SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)",1960.0,2025.0,66,0.0,0.79
+People,SP.POP.7074.MA.5Y,"Population ages 70-74, male (% of male population)",1960.0,2025.0,66,0.0,1.86
+People,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",1960.0,2025.0,66,0.0,6.35
+People,SP.POP.6569.MA.5Y,"Population ages 65-69, male (% of male population)",1960.0,2025.0,66,0.0,2.53
+People,SP.POP.5559.MA.5Y,"Population ages 55-59, male (% of male population)",1960.0,2025.0,66,0.0,3.62
+People,SP.POP.4549.MA.5Y,"Population ages 45-49, male (% of male population)",1960.0,2025.0,66,0.0,4.91
+People,SP.POP.3539.MA.5Y,"Population ages 35-39, male (% of male population)",1960.0,2025.0,66,0.0,5.95
+People,SP.POP.2529.MA.5Y,"Population ages 25-29, male (% of male population)",1960.0,2025.0,66,0.0,8.61
+People,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),1960.0,2025.0,66,0.0,65.32
+People,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",1960.0,2025.0,66,0.0,67.03
+People,SP.POP.1014.MA.5Y,"Population ages 10-14, male (% of male population)",1960.0,2025.0,66,0.0,10.37
+People,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),1960.0,2025.0,66,0.0,28.05
+People,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",1960.0,2025.0,66,0.0,26.1
+People,SP.MTR.1519.ZS,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),1996.0,2022.0,6,21.0,13.1
+People,SP.DYN.WFRT,Wanted fertility rate (births per woman),1996.0,2022.0,6,21.0,1.7
+People,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",1960.0,2024.0,65,0.0,69.09
+People,SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1960.0,2024.0,65,0.0,22.2
+People,SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)",1960.0,2024.0,65,0.0,6.97
+People,SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",1960.0,2024.0,65,0.0,66.49
+Other,SN.ITK.MSFI.ZS,Prevalence of moderate or severe food insecurity in the population (%),2015.0,2024.0,10,0.0,35.0
+Other,SM.POP.RRWA.EO,Refugees under the mandate of the UNRWA by country or territory of origin,,,0,,
+Other,SM.POP.OPIP.EO,Other people in need of international protection by country or territory of origin,,,0,,
+Other,SM.POP.FDIP,Forcibly displaced people,2010.0,2025.0,16,0.0,19915.0
+People,SL.WAG.0714.MA.ZS,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",1999.0,2008.0,2,8.0,2.54
+People,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1990.0,2021.0,32,0.0,0.0
+People,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1990.0,2021.0,32,0.0,0.0
+People,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),2000.0,2021.0,22,0.0,5.63
+Other,DT.TDS.MLAT.PG.ZS,Multilateral debt service (% of public and publicly guaranteed debt service),1971.0,2024.0,54,0.0,80.37
+Other,DT.TDS.DPPG.CD,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",1970.0,2024.0,55,0.0,383868031.5
+Other,DT.TDS.DECT.EX.ZS,"Total debt service (% of exports of goods, services and primary income)",1976.0,2024.0,49,0.0,12.39
+Other,DT.ODA.ODAT.MP.ZS,"Net ODA received (% of imports of goods, services and primary income)",1976.0,2023.0,48,0.0,8.18
+Other,DT.ODA.ODAT.CD,Net official development assistance received (current US$),1960.0,2023.0,64,0.0,1173136840.82
+Other,DT.ODA.ALLD.CD,Net official development assistance and official aid received (current US$),1960.0,2023.0,64,0.0,1173136840.82
+Other,DT.NFL.UNWT.CD,"Net official flows from UN agencies, UNWTO (current US$)",,,0,,
+Other,DT.NFL.UNPB.CD,"Net official flows from UN agencies, UNPBF (current US$)",2009.0,2021.0,11,2.0,-7700.0
+Other,DT.NFL.UNEP.CD,"Net official flows from UN agencies, UNEP (current US$)",,,0,,
+Other,DT.NFL.UNCTAD.CD,"Net official flows from UN agencies, UNCTAD (current US$)",,,0,,
+Other,DT.NFL.UNAI.CD,"Net official flows from UN agencies, UNAIDS (current US$)",2005.0,2023.0,17,2.0,275788.01
+Other,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",2008.0,2023.0,15,1.0,110000.0
+External,TX.VAL.TRAN.ZS.WT,Transport services (% of commercial service exports),1976.0,2025.0,50,0.0,15.25
+External,TX.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service exports)",1976.0,2025.0,50,0.0,42.86
+External,TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",1981.0,2023.0,43,0.0,0.0
+External,TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),1982.0,2023.0,37,5.0,0.03
+External,TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports),1981.0,2023.0,43,0.0,26.9
+External,TX.VAL.MANF.ZS.UN,Manufactures exports (% of merchandise exports),1974.0,2022.0,33,16.0,47.52
+External,TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports),1974.0,2022.0,33,16.0,49.39
+External,TX.MNF.TECH.ZS.UN,Medium and high-tech exports (% manufactured exports),1990.0,2024.0,35,0.0,6.25
+Other,TM.VAL.SERV.CD.WT,Commercial service imports (current US$),1976.0,2025.0,50,0.0,2501522293.52
+Other,TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$),1981.0,2023.0,43,0.0,12041375757.0
+Other,TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),1985.0,2023.0,38,1.0,0.02
+Other,TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),1981.0,2023.0,43,0.0,25.89
+Other,TM.VAL.MMTL.ZS.UN,Ores and metals imports (% of merchandise imports),1975.0,2022.0,32,16.0,2.29
+Other,TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports),1974.0,2022.0,33,16.0,22.97
+Other,TM.TAX.TCOM.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, primary products (%)",1993.0,2022.0,24,6.0,11.64
+Other,TM.TAX.TCOM.BR.ZS,"Bound rate, simple mean, primary products (%)",2004.0,2021.0,17,1.0,32.88
+Other,TM.TAX.MRCH.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, all products (%)",1993.0,2022.0,24,6.0,12.84
+Other,TM.TAX.MANF.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",1993.0,2022.0,24,6.0,12.56
+Other,TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)",2004.0,2021.0,17,1.0,24.12
+Other,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",1995.0,2020.0,26,0.0,2.5
+Other,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",1995.0,2020.0,26,0.0,4000000.0
+Other,ST.INT.DPRT,"International tourism, number of departures",1995.0,2017.0,20,3.0,1197000.0
+People,SP.URB.TOTL,Urban population,1960.0,2025.0,66,0.0,19843969.0
+People,SP.RUR.TOTL,Rural population,1960.0,2025.0,66,0.0,9774149.0
+People,SP.REG.BRTH.RU.ZS,"Completeness of birth registration, rural (%)",2006.0,2019.0,5,9.0,79.3
+People,SP.POP.TOTL.MA.IN,"Population, male",1960.0,2025.0,66,0.0,14130210.0
+People,SP.POP.TECH.RD.P6,Technicians in R&D (per million people),2002.0,2002.0,1,0.0,141.55
+People,SP.POP.DPND.OL,"Age dependency ratio, old (% of working-age population)",1960.0,2025.0,66,0.0,10.14
+People,SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)",1960.0,2025.0,66,0.0,1.0
+People,SP.POP.7074.FE.5Y,"Population ages 70-74, female (% of female population)",1960.0,2025.0,66,0.0,1.99
+People,SP.POP.65UP.MA.IN,"Population ages 65 and above, male",1960.0,2025.0,66,0.0,897176.0
+People,SP.POP.6569.FE.5Y,"Population ages 65-69, female (% of female population)",1960.0,2025.0,66,0.0,2.56
+People,SP.POP.5559.FE.5Y,"Population ages 55-59, female (% of female population)",1960.0,2025.0,66,0.0,3.8
+People,SP.POP.4549.FE.5Y,"Population ages 45-49, female (% of female population)",1960.0,2025.0,66,0.0,5.4
+People,SP.POP.3539.FE.5Y,"Population ages 35-39, female (% of female population)",1960.0,2025.0,66,0.0,7.28
+People,SP.POP.2529.FE.5Y,"Population ages 25-29, female (% of female population)",1960.0,2025.0,66,0.0,9.22
+People,SP.POP.1564.TO,"Population ages 15-64, total",1960.0,2025.0,66,0.0,19347692.0
+People,SP.POP.1564.FE.IN,"Population ages 15-64, female",1960.0,2025.0,66,0.0,10380947.0
+People,SP.POP.1014.FE.5Y,"Population ages 10-14, female (% of female population)",1960.0,2025.0,66,0.0,8.87
+People,SP.POP.0014.TO,"Population ages 0-14, total",1960.0,2025.0,66,0.0,8308466.0
+People,SP.POP.0014.FE.IN,"Population ages 0-14, female",1960.0,2025.0,66,0.0,4042177.0
+People,SP.M18.2024.FE.ZS,Women who were first married by age 18 (% of women ages 20-24),1996.0,2022.0,6,21.0,34.9
+People,SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)",1960.0,2024.0,65,0.0,71.23
+People,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960.0,2024.0,65,0.0,70.64
+People,SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)",1960.0,2024.0,65,0.0,20.2
+People,SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)",1960.0,2024.0,65,0.0,18.96
+Other,SN.ITK.VITA.ZS,Vitamin A supplementation coverage rate (% of children ages 6-59 months),2000.0,2023.0,24,0.0,82.0
+Other,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),2001.0,2024.0,24,0.0,5.2
+Other,SM.POP.RRWA.EA,Refugees under the mandate of the UNRWA by country or territory of asylum,,,0,,
+Other,DT.TDS.DPPF.XP.ZS,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",1976.0,2024.0,49,0.0,9.34
+Other,DT.TDS.DECT.CD,"Debt service on external debt, total (TDS, current US$)",1970.0,2024.0,55,0.0,536987093.3
+Other,DT.ODA.ODAT.KD,Net official development assistance received (constant 2023 US$),1960.0,2023.0,64,0.0,1173136840.82
+Other,DT.ODA.OATL.KD,Net official aid received (constant 2023 US$),,,0,,
+Other,DT.NFL.WITC.CD,"Net official flows from UN agencies, WTO-ITC (current US$)",2020.0,2021.0,2,0.0,111804.0
+Other,DT.NFL.UNWN.CD,"Net official flows from UN agencies, UNWOMEN (current US$)",2021.0,2023.0,3,0.0,1037950.04
+Other,DT.NFL.UNIDO.CD,"Net official flows from UN agencies, UNIDO (current US$)",,,0,,
+Other,DT.NFL.UNEC.CD,"Net official flows from UN agencies, UNECE (current US$)",,,0,,
+Other,DT.NFL.UNCR.CD,"Net official flows from UN agencies, UNHCR (current US$)",1969.0,2023.0,42,13.0,2023600.1
+Other,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",2021.0,2023.0,3,0.0,100000.0
+Other,DT.NFL.PRVT.CD,"PPG, private creditors (NFL, US$)",1977.0,2024.0,31,17.0,-129000.0
+Other,DT.NFL.PCBO.CD,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",1986.0,2024.0,6,33.0,-99216000.0
+Other,DT.NFL.NIFC.CD,"IFC, private nonguaranteed (NFL, US$)",1970.0,2024.0,55,0.0,35165115.57
+Other,DT.NFL.MIBR.CD,"Net financial flows, IBRD (NFL, current US$)",,,0,,
+Other,VC.IHR.PSRC.MA.P5,"Intentional homicides, male (per 100,000 male)",,,0,,
+Other,VC.BTL.DETH,Battle-related deaths (number of people),1996.0,2006.0,11,0.0,457.0
+External,TX.VAL.TECH.CD,High-technology exports (current US$),2009.0,2022.0,14,0.0,3815787.0
+External,TX.VAL.MRCH.WR.ZS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),1981.0,2023.0,43,0.0,70.54
+External,TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),1981.0,2023.0,43,0.0,70.54
+External,TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),1981.0,2023.0,43,0.0,1.47
+External,TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports),1981.0,2023.0,41,2.0,0.39
+External,TX.VAL.ICTG.ZS.UN,ICT goods exports (% of total goods exports),2009.0,2022.0,14,0.0,0.04
+External,TX.UVI.MRCH.XD.WD,Export unit value index (2015 = 100),2000.0,2025.0,26,0.0,149.1
+Other,TM.VAL.TRVL.ZS.WT,Travel services (% of commercial service imports),1976.0,2025.0,50,0.0,65.62
+Other,TM.VAL.MRCH.XD.WD,Import value index (2015 = 100),2005.0,2024.0,20,0.0,185.2
+Other,TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),1981.0,2023.0,40,3.0,0.56
+Other,TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),1988.0,2023.0,32,4.0,2.95
+Other,TM.VAL.MRCH.CD.WT,Merchandise imports (current US$),1960.0,2025.0,66,0.0,14397000000.0
+Other,TM.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service imports),1976.0,2025.0,44,6.0,4.9
+Other,TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports),1975.0,2022.0,32,16.0,1.29
+Other,TM.TAX.TCOM.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, primary products (%)",1993.0,2022.0,24,6.0,13.22
+Other,TM.TAX.MRCH.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, all products (%)",1993.0,2022.0,24,6.0,12.44
+Other,TM.TAX.MRCH.BR.ZS,"Bound rate, simple mean, all products (%)",2004.0,2021.0,17,1.0,26.33
+Other,TM.TAX.MANF.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, manufactured products (%)",1993.0,2022.0,24,6.0,12.55
+Other,TM.QTY.MRCH.XD.WD,Import volume index (2015 = 100),2005.0,2024.0,20,0.0,139.4
+Other,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",1995.0,2020.0,26,0.0,263000000.0
+Other,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",1995.0,2020.0,26,0.0,13.44
+People,SP.UWT.TFRT,Unmet need for contraception (% of married women ages 15-49),1992.0,2022.0,9,22.0,20.8
+People,SP.RUR.TOTL.ZS,Rural population (% of total population),1960.0,2025.0,66,0.0,33.0
+People,SP.REG.BRTH.ZS,Completeness of birth registration (%),2006.0,2019.0,5,9.0,77.2
+People,SP.REG.BRTH.FE.ZS,"Completeness of birth registration, female (%)",2006.0,2019.0,4,10.0,78.3
+People,SP.POP.TOTL.FE.IN,"Population, female",1960.0,2025.0,66,0.0,15487908.0
+People,SP.POP.GROW,Population growth (annual %),1961.0,2025.0,65,0.0,-0.11
+People,SP.POP.BRTH.MF,Sex ratio at birth (male births per female births),1960.0,2024.0,65,0.0,1.05
+People,SP.POP.7579.FE.5Y,"Population ages 75-79, female (% of female population)",1960.0,2025.0,66,0.0,1.33
+People,SP.POP.65UP.TO,"Population ages 65 and above, total",1960.0,2025.0,66,0.0,1961960.0
+People,SP.POP.65UP.FE.IN,"Population ages 65 and above, female",1960.0,2025.0,66,0.0,1064784.0
+People,SP.POP.6064.FE.5Y,"Population ages 60-64, female (% of female population)",1960.0,2025.0,66,0.0,3.13
+People,SP.POP.5054.FE.5Y,"Population ages 50-54, female (% of female population)",1960.0,2025.0,66,0.0,4.65
+People,SP.POP.4044.FE.5Y,"Population ages 40-44, female (% of female population)",1960.0,2025.0,66,0.0,6.44
+People,SP.POP.3034.FE.5Y,"Population ages 30-34, female (% of female population)",1960.0,2025.0,66,0.0,8.29
+People,SP.POP.2024.FE.5Y,"Population ages 20-24, female (% of female population)",1960.0,2025.0,66,0.0,9.54
+People,SP.POP.1564.MA.IN,"Population ages 15-64, male",1960.0,2025.0,66,0.0,8966744.0
+People,SP.POP.1519.FE.5Y,"Population ages 15-19, female (% of female population)",1960.0,2025.0,66,0.0,9.28
+People,SP.POP.0509.FE.5Y,"Population ages 05-09, female (% of female population)",1960.0,2025.0,66,0.0,8.6
+People,SP.POP.0014.MA.IN,"Population ages 0-14, male",1960.0,2025.0,66,0.0,4266289.0
+People,SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)",1960.0,2025.0,66,0.0,8.63
+People,SP.HOU.FEMA.ZS,Female headed households (% of households with a female head),1996.0,2022.0,6,21.0,32.7
+People,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1960.0,2024.0,65,0.0,1.96
+People,SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)",1960.0,2024.0,65,0.0,24.1
+People,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",1976.0,2022.0,14,33.0,42.7
+People,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",1960.0,2024.0,65,0.0,136.33
+Other,SN.ITK.SALT.ZS,Consumption of iodized salt (% of households),1998.0,2017.0,6,14.0,94.2
+Other,SM.POP.TOTL,"International migrant stock, total",1990.0,2024.0,8,27.0,470719.0
+Other,SM.POP.RHCR.EA,Refugees under the mandate of the UNHCR by country or territory of asylum,1964.0,2025.0,62,0.0,19613.0
+Other,SM.POP.IDPC,Internally displaced people (IDP) by country or territory of asylum / origin,2009.0,2016.0,8,0.0,50000.0
+People,SL.WAG.0714.ZS,"Children in employment, wage workers (% of children in employment, ages 7-14)",1999.0,2008.0,2,8.0,2.08
+People,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",1996.0,2017.0,6,16.0,10.66
+People,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1990.0,2021.0,32,0.0,-15.08
+People,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1990.0,2021.0,32,0.0,0.0
+People,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",1990.0,2022.0,33,0.0,0.0
+People,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",1996.0,2024.0,26,3.0,94.2
+People,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",2000.0,2024.0,25,0.0,25.0
+Other,DT.TDS.DPPG.GN.ZS,Public and publicly guaranteed debt service (% of GNI),1970.0,2024.0,55,0.0,0.87
+Other,DT.TDS.DECT.GN.ZS,Total debt service (% of GNI),1970.0,2024.0,55,0.0,1.22
+Other,DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$),1960.0,2023.0,64,0.0,39.51
+Other,DT.ODA.ODAT.GI.ZS,Net ODA received (% of gross capital formation),1965.0,2023.0,59,0.0,9.17
+Other,DT.ODA.ALLD.KD,Net official development assistance and official aid received (constant 2023 US$),1960.0,2023.0,64,0.0,1173136840.82
+Other,DT.NFL.WFPG.CD,"Net official flows from UN agencies, WFP (current US$)",1969.0,2023.0,55,0.0,1410642.03
+Other,DT.NFL.UNRW.CD,"Net official flows from UN agencies, UNRWA (current US$)",,,0,,
+Other,DT.NFL.UNFP.CD,"Net official flows from UN agencies, UNFPA (current US$)",1977.0,2023.0,45,2.0,3822730.06
+Other,DT.NFL.UNCV.CD,"Net official flows from UN agencies, UNCOVID (current US$)",2021.0,2021.0,1,0.0,-23870.0
+Other,DT.NFL.UNCD.CD,"Net official flows from UN agencies, UNCDF (current US$)",2020.0,2023.0,4,0.0,5289.0
+Other,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.5
+Other,IP.PAT.NRES,"Patent applications, nonresidents",1982.0,2017.0,13,23.0,43.0
+Other,IE.PPN.WATR.CD,Public private partnerships investment in water and sanitation (current US$),,,0,,
+Other,IE.PPI.WATR.CD,Investment in water and sanitation with private participation (current US$),,,0,,
+Other,IC.TAX.METG,Number of visits or required meetings with tax officials (average for affected firms),2009.0,2023.0,3,12.0,1.79
+Other,IC.FRM.TRNG.ZS,Firms offering formal training (% of firms),2009.0,2023.0,3,12.0,14.05
+Other,IC.FRM.METG.ZS,Firms visited or required meetings with tax officials (% of firms),2009.0,2023.0,3,12.0,46.2
+Other,IC.FRM.FEMO.ZS,Firms with female participation in ownership (% of firms),2009.0,2023.0,3,12.0,14.7
+Other,IC.FRM.DURS,Time required to obtain an operating license (days),2009.0,2023.0,3,12.0,2.8
+Other,IC.FRM.CO2.ZS,Firms monitoring own CO2 emissions (% of firms),2023.0,2023.0,1,0.0,1.79
+Other,IC.FRM.BNKS.ZS,Firms using banks to finance investment (% of firms),2009.0,2023.0,3,12.0,33.42
+Other,IC.ELC.DURS,Time to obtain an electrical connection (days),2009.0,2023.0,3,12.0,20.35
+Other,IC.BUS.NDNS.ZS,"New business density (new registrations per 1,000 people ages 15-64)",2006.0,2020.0,15,0.0,1.4
+Other,IC.BRE.US.OS,B-READY: Utility Services: Overall Score,2025.0,2025.0,1,0.0,63.37
+Other,IC.BRE.TX.OS,B-READY: Taxation: Overall Score,2025.0,2025.0,1,0.0,59.49
+Other,IC.BRE.MC.P3,B-READY: Market Competition Pillar 3:  Implementation of Key Services Promoting Market Competition,2025.0,2025.0,1,0.0,40.62
+Other,IC.BRE.LB.P3,B-READY: Labor Pillar 3: Operational Efficiency of Labor Regulations and Public Services in Practice,2025.0,2025.0,1,0.0,66.68
+Other,IC.BRE.IT.P3,"B-READY: International Trade Pillar 3: Efficiency of Importing Goods, Exporting Goods, and Engaging in Digital Trade",2025.0,2025.0,1,0.0,66.51
+Other,IC.BRE.FS.P3,B-READY: Financial Services Pillar 3: Operational Efficiency of Receiving Financial Services,2025.0,2025.0,1,0.0,48.27
+Other,IC.BRE.DR.P3,B-READY: Dispute Resolution Pillar 3:  Ease of Resolving a Commercial Dispute,2025.0,2025.0,1,0.0,76.12
+Other,IC.BRE.BL.P3,B-READY: Business Location Pillar 3: Operational Efficiency of Establishing a Business Location,2025.0,2025.0,1,0.0,65.13
+Other,IC.BRE.BI.P3,B-READY: Business Insolvency Pillar 3: Operational Efficiency of Resolving Judicial Insolvency Proceedings,2025.0,2025.0,1,0.0,0.0
+Other,IC.BRE.BE.P3,B-READY: Business Entry Pillar 3: Operational Efficiency of Business Entry,2025.0,2025.0,1,0.0,50.42
+Other,HD_HCIP_OVRL_TO,"Human capital index plus (HCI+): overall score, total (scale 0–325)",2015.0,2025.0,3,8.0,133.21
+Other,HD_HCIP_OTJL_MA,"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30–87)",2010.0,2025.0,4,12.0,29.24
+Other,HD_HCIP_HLTH_FE,"Human capital index plus (HCI+): health pillar score, female (scale 0–50)",2010.0,2025.0,4,12.0,41.1
+Other,GOV_WGI_VA_SC,Voice and Accountability - Governance score (0-100),1996.0,2025.0,27,3.0,54.64
+Other,GOV_WGI_RL_SC,Rule of Law - Governance score (0-100),1996.0,2025.0,27,3.0,53.58
+Other,GOV_WGI_GE_SC,Government Effectiveness - Governance score (0-100),1996.0,2025.0,27,3.0,36.59
+Other,GF.XPD.BUDG.ZS,Primary government expenditures as a proportion of original approved budget (%),2007.0,2024.0,18,0.0,77.65
+Other,GC.XPN.TRFT.ZS,Subsidies and other transfers (% of expense),2010.0,2021.0,12,0.0,77.19
+Other,GC.XPN.OTHR.ZS,Other expense (% of expense),2010.0,2021.0,12,0.0,0.27
+Other,GC.XPN.INTP.CN,Interest payments (current LCU),1995.0,2023.0,28,1.0,73029560000.0
+Other,GC.XPN.COMP.CN,Compensation of employees (current LCU),2010.0,2023.0,13,1.0,157799720000.0
+Other,GC.TAX.TOTL.GD.ZS,Tax revenue (% of GDP),1990.0,2023.0,33,1.0,13.94
+Other,GC.TAX.INTT.RV.ZS,Taxes on international trade (% of revenue),1990.0,2023.0,33,1.0,16.58
+Other,IP.TMK.NRCT,"Trademark applications, nonresident, by count",2004.0,2017.0,11,3.0,1677.0
+Other,IP.IDS.RSCT,"Industrial design applications, resident, by count",1992.0,2017.0,14,12.0,15.0
+Other,IE.PPN.ICTI.CD,Public private partnerships investment in ICT (current US$),2002.0,2024.0,3,20.0,10540000.0
+Other,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),2002.0,2024.0,3,20.0,10540000.0
+Other,IC.MNG.IND,Management practices index,2023.0,2023.0,1,0.0,44.18
+Other,IC.FRM.OUTG.ZS,Value lost due to electrical outages (% of sales for affected firms),2009.0,2023.0,3,12.0,1.0
+Other,IC.FRM.FREG.ZS,Firms formally registered when operations started (% of firms),2009.0,2023.0,3,12.0,85.36
+Other,IC.FRM.EXS.ZS,Firms exporting directly at least 10% of sales (% of firms),2009.0,2023.0,3,12.0,11.02
+Other,IC.FRM.CRDC.FL.ZS,Firms that are fully credit constrained (% of firms),2023.0,2023.0,1,0.0,11.54
+Other,IC.FRM.CDP.ZS,Firms that use a third party to resolve commercial disputes (% of firms),2023.0,2023.0,1,0.0,7.22
+Other,IC.FRM.BKWC.ZS,Firms using banks to finance working capital (% of firms) ,2009.0,2023.0,3,12.0,39.63
+Other,IC.CUS.DURS.EX,Average time to clear exports through customs (days),2009.0,2023.0,3,12.0,2.9
+Other,IC.BRE.US.P2,B-READY: Utility Services Pillar 2: Quality of Governance and Transparency of Utility Services,2025.0,2025.0,1,0.0,65.23
+Other,IC.BRE.TX.P2,B-READY: Taxation Pillar 2: Public Services Provided by the Tax Administration,2025.0,2025.0,1,0.0,37.59
+Other,IC.BRE.P2.PS,B-READY: Pillar 2: Public Services,2025.0,2025.0,1,0.0,42.04
+Other,IC.BRE.MC.P1,B-READY: Market Competition Pillar 1: Quality of Regulations that Promote Market Competition,2025.0,2025.0,1,0.0,41.32
+Other,IC.BRE.LB.P1,B-READY: Labor Pillar 1: Quality of Labor Regulations,2025.0,2025.0,1,0.0,70.77
+Other,IC.BRE.IT.P1,B-READY: International Trade Pillar 1: Quality of Regulations for International Trade,2025.0,2025.0,1,0.0,50.11
+Other,IC.BRE.FS.P1,B-READY: Financial Services Pillar 1: Quality of Regulations for Financial Services,2025.0,2025.0,1,0.0,88.91
+Other,IC.BRE.DR.P1,B-READY: Dispute Resolution Pillar 1: Quality of Regulations for Dispute Resolution,2025.0,2025.0,1,0.0,61.56
+Other,IC.BRE.BL.P1,B-READY: Business Location Pillar 1: Quality of Regulations for Business Location,2025.0,2025.0,1,0.0,46.66
+Other,IC.BRE.BI.P1,B-READY: Business Insolvency Pillar 1: Quality of Regulations for Judicial Insolvency Proceedings,2025.0,2025.0,1,0.0,52.26
+Other,IC.BRE.BE.P1,B-READY: Business Entry Pillar 1: Quality of Regulations for Business Entry,2025.0,2025.0,1,0.0,85.0
+Other,HD_HCIP_OVRL_FE,"Human capital index plus (HCI+): overall score, female (scale 0–325)",2015.0,2025.0,3,8.0,117.34
+Other,HD_HCIP_HLTH_TO,"Human capital index plus (HCI+): health pillar score, total (scale 0–50)",2010.0,2025.0,4,12.0,40.49
+Other,HD_HCIP_EDUC_MA,"Human capital index plus (HCI+): education pillar score, male (scale 0–188)",2015.0,2025.0,3,8.0,84.87
+Other,GOV_WGI_RQ_SC,Regulatory Quality - Governance score (0-100),1996.0,2025.0,27,3.0,44.25
+Other,GOV_WGI_PV_SC,Political Stability - Governance score (0-100),1996.0,2025.0,27,3.0,57.84
+Other,GOV_WGI_CC_SC,Control of Corruption - Governance score (0-100),1996.0,2025.0,27,3.0,32.45
+Other,GD_WBL_OVL_LAW,WBL: Legal Framework Index (scale 0-100),2025.0,2025.0,1,0.0,57.93
+Other,GC.XPN.TOTL.GD.ZS,Expense (% of GDP),2004.0,2021.0,13,5.0,19.44
+Other,GC.XPN.INTP.ZS,Interest payments (% of expense),2004.0,2021.0,13,5.0,4.11
+Other,IP.PAT.RESD,"Patent applications, residents",1980.0,2017.0,12,26.0,20.0
+Other,IP.IDS.NRCT,"Industrial design applications, nonresident, by count",1992.0,2017.0,15,11.0,25.0
+Other,IE.PPN.ENGY.CD,Public private partnerships investment in energy (current US$),1994.0,2022.0,17,12.0,858740000.0
+Other,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1994.0,2022.0,17,12.0,858740000.0
+Other,IC.GOV.DURS.ZS,Time spent dealing with the requirements of government regulations (% of senior management time),2009.0,2023.0,3,12.0,7.09
+Other,IC.FRM.NPRD.ZS,"Firms that introduced a new product/service and process, and spent on R&D",2013.0,2023.0,2,9.0,0.21
+Other,IC.FRM.FO.ZS,Firms with at least 10% foreign ownership,2009.0,2023.0,3,12.0,1.38
+Other,IC.FRM.ENGM.ZS,Firms adopting energy management measures to reduce emissions (% of firms),2023.0,2023.0,1,0.0,8.08
+Other,IC.FRM.CORR.ZS,Informal payments to public officials (% of firms),2009.0,2023.0,3,12.0,3.39
+Other,IC.FRM.BRIB.ZS,Bribery incidence (% of firms experiencing at least one bribe payment request),2009.0,2023.0,3,12.0,6.17
+Other,IC.ELC.OUTG.ZS,Firms experiencing electrical outages (% of firms),2009.0,2023.0,3,12.0,75.84
+Other,IC.BUS.NREG,New businesses registered (number),2006.0,2020.0,15,0.0,25859.0
+Other,IC.BRE.US.P1,B-READY: Utility Services Pillar 1: Quality of Regulations on Utility Services,2025.0,2025.0,1,0.0,58.09
+Other,IC.BRE.TX.P1,B-READY: Taxation Pillar 1: Quality of Regulations on Taxation,2025.0,2025.0,1,0.0,59.92
+Other,IC.BRE.P1.RF,B-READY: Pillar 1: Regulatory Framework,2025.0,2025.0,1,0.0,61.46
+Other,IC.BRE.MC.OS,B-READY: Market Competition: Overall Score,2025.0,2025.0,1,0.0,37.23
+Other,IC.BRE.LB.OS,B-READY: Labor: Overall Score,2025.0,2025.0,1,0.0,62.32
+Other,IC.BRE.IT.OS,B-READY: International Trade: Overall Score,2025.0,2025.0,1,0.0,46.71
+Other,IC.BRE.FS.OS,B-READY: Financial Services: Overall Score,2025.0,2025.0,1,0.0,71.84
+Other,IC.BRE.DR.OS,B-READY: Dispute Resolution: Overall Score,2025.0,2025.0,1,0.0,60.39
+Other,IC.BRE.BL.OS,B-READY: Business Location: Overall Score,2025.0,2025.0,1,0.0,48.18
+Other,IC.BRE.BI.OS,B-READY: Business Insolvency: Overall Score,2025.0,2025.0,1,0.0,24.09
+Other,IC.BRE.BE.OS,B-READY: Business Entry: Overall Score,2025.0,2025.0,1,0.0,58.54
+Other,HD_HCIP_OTJL_TO,"Human capital index plus (HCI+): on-the-job learning pillar score, total (scale -30–87)",2010.0,2025.0,4,12.0,10.06
+Other,HD_HCIP_HLTH_MA,"Human capital index plus (HCI+): health pillar score, male (scale 0–50)",2010.0,2025.0,4,12.0,39.8
+Other,HD_HCIP_EDUC_FE,"Human capital index plus (HCI+): education pillar score, female (scale 0–188)",2015.0,2025.0,3,8.0,80.83
+Other,GOV_WGI_RQ_EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.65
+Other,GOV_WGI_PV_EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.44
+Other,GOV_WGI_CC_EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.77
+Other,GD_WBL_OVL_ENF,WBL: Enforcement Perceptions Index (scale 0-100),2025.0,2025.0,1,0.0,40.01
+Other,GC.XPN.TOTL.CN,Expense (current LCU),2004.0,2021.0,13,5.0,846217690000.0
+Other,GC.XPN.INTP.RV.ZS,Interest payments (% of revenue),1995.0,2023.0,28,1.0,8.02
+Other,GC.XPN.COMP.ZS,Compensation of employees (% of expense),2010.0,2021.0,12,0.0,14.08
+Other,GC.TAX.YPKG.CN,"Taxes on income, profits and capital gains (current LCU)",1990.0,2023.0,33,1.0,243068910000.0
+Other,GC.TAX.OTHR.CN,Other taxes (current LCU),1990.0,2023.0,33,1.0,8673542662.0
+Other,GC.TAX.IMPT.CN,Customs and other import duties (current LCU),1990.0,2023.0,33,1.0,142740730000.0
+Other,GC.TAX.EXPT.ZS,Taxes on exports (% of tax revenue),1990.0,2023.0,33,1.0,0.05
+Other,GC.REV.SOCL.ZS,Social contributions (% of revenue),,,0,,
+Other,GC.NLD.TOTL.GD.ZS,Net lending (+) / net borrowing (-) (% of GDP),2010.0,2023.0,13,1.0,-5.88
+Other,GC.LBL.TOTL.GD.ZS,"Net incurrence of liabilities, total (% of GDP)",1990.0,2021.0,26,6.0,6.96
+Other,GC.AST.TOTL.GD.ZS,Net acquisition of financial assets (% of GDP),1990.0,2023.0,27,7.0,-1.93
+Other,FX.OWN.TOTL.YG.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",2011.0,2024.0,5,9.0,39.12
+Other,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.0
+Other,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),2005.0,2025.0,21,0.0,3.5
+Other,IP.TMK.RSCT,"Trademark applications, resident, by count",2004.0,2017.0,11,3.0,4005.0
+Other,IP.JRN.ARTC.SC,Scientific and technical journal articles,1996.0,2023.0,28,0.0,1590.74
+Other,IE.PPN.TRAN.CD,Public private partnerships investment in transport (current US$),2015.0,2015.0,1,0.0,350000000.0
+Other,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2015.0,2015.0,1,0.0,350000000.0
+Other,IC.TAX.GIFT.ZS,Firms expected to give gifts in meetings with tax officials (% of firms),2009.0,2023.0,3,12.0,4.66
+Other,IC.FRM.TAXE.ZS,Firms filling taxes electronically (% of firms),2023.0,2023.0,1,0.0,40.25
+Other,IC.FRM.LOTM.ZS,Firms where largest owner is also the top manager (% of firms),2023.0,2023.0,1,0.0,80.26
+Other,IC.FRM.FEMM.ZS,Firms with female top manager (% of firms),2009.0,2023.0,3,12.0,10.31
+Other,IC.FRM.CRDC.PT.ZS,Firms that are partially credit constrained (% of firms),2023.0,2023.0,1,0.0,26.71
+Other,IC.FRM.CMPU.ZS,Firms competing against unregistered firms (% of firms),2009.0,2023.0,3,12.0,37.66
+Other,IC.FRM.BNKL.ZS,Firms with a bank loan/line of credit (% of firms),2009.0,2023.0,3,12.0,57.85
+Other,IC.CUS.DURS.IM,Average time to clear imports through customs (days),2009.0,2023.0,3,12.0,5.35
+Other,IC.BRE.US.P3,B-READY: Utility Services Pillar 3: Operational Efficiency of Utility Service Provision,2025.0,2025.0,1,0.0,66.79
+Other,IC.BRE.TX.P3,B-READY: Taxation Pillar 3: Operational Efficiency of Tax Systems in Practice,2025.0,2025.0,1,0.0,80.95
+Other,IC.BRE.P3.OE,B-READY: Pillar 3: Operational Efficiency,2025.0,2025.0,1,0.0,56.15
+Other,IC.BRE.MC.P2,B-READY: Market Competition Pillar 2: Public Services that Promote Market Competition,2025.0,2025.0,1,0.0,29.75
+Other,IC.BRE.LB.P2,B-READY: Labor Pillar 2: Adequacy of Public Services for Labor,2025.0,2025.0,1,0.0,49.52
+Other,IC.BRE.IT.P2,B-READY: International Trade Pillar 2: Quality of Public Services for the Facilitation of International Trade,2025.0,2025.0,1,0.0,23.51
+Other,IC.BRE.FS.P2,B-READY: Financial Services Pillar 2: Accessibility of Information in Credit Infrastructure,2025.0,2025.0,1,0.0,78.33
+Other,IC.BRE.DR.P2,B-READY: Dispute Resolution Pillar 2: Public Services for Dispute Resolution,2025.0,2025.0,1,0.0,43.51
+Other,IC.BRE.BL.P2,B-READY: Business Location Pillar 2: Quality of Public Services and Transparency of Information for Business Location,2025.0,2025.0,1,0.0,32.75
+Other,IC.BRE.BI.P2,B-READY: Business Insolvency Pillar 2: Quality of Institutional and Operational Infrastructure for Judicial Insolvency Proceedings,2025.0,2025.0,1,0.0,20.0
+Other,IC.BRE.BE.P2,B-READY: Business Entry Pillar 2: Digital Public Services and Transparency of Information for Business Entry,2025.0,2025.0,1,0.0,40.19
+Other,HD_HCIP_OVRL_MA,"Human capital index plus (HCI+): overall score, male (scale 0–325)",2015.0,2025.0,3,8.0,153.91
+Other,HD_HCIP_OTJL_FE,"Human capital index plus (HCI+): on-the-job learning pillar score, female (scale -30–87)",2010.0,2025.0,4,12.0,-4.6
+Other,HD_HCIP_EDUC_TO,"Human capital index plus (HCI+): education pillar score, total (scale 0–188)",2015.0,2025.0,3,8.0,82.67
+Other,GOV_WGI_VA_EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.17
+Other,GOV_WGI_RL_EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.31
+Other,GOV_WGI_GE_EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),1996.0,2025.0,27,3.0,-0.77
+Other,GD_WBL_OVL_SFR,WBL: Supportive Framework Index (scale 0-100),2025.0,2025.0,1,0.0,44.68
+Other,GC.XPN.TRFT.CN,Subsidies and other transfers (current LCU),2010.0,2023.0,13,1.0,707054690000.0
+Other,GC.XPN.OTHR.CN,Other expense (current LCU),2010.0,2023.0,13,1.0,3228560000.0
+Other,GC.TAX.GSRV.VA.ZS,Taxes on goods and services (% value added of industry and services),1990.0,2023.0,33,1.0,9.57
+Other,GC.TAX.EXPT.CN,Taxes on exports (current LCU),1990.0,2023.0,33,1.0,350120000.0
+Other,GC.REV.SOCL.CN,Social contributions (current LCU),,,0,,
+Other,GC.NLD.TOTL.CN,Net lending (+) / net borrowing (-) (current LCU),2010.0,2023.0,13,1.0,-315760786488.0
+Other,GC.LBL.TOTL.CN,"Net incurrence of liabilities, total (current LCU)",1990.0,2021.0,26,6.0,303116900000.0
+Other,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),1990.0,2023.0,27,7.0,-103477320000.0
+Other,FX.OWN.TOTL.SO.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",2011.0,2024.0,5,9.0,68.77
+Other,FX.OWN.TOTL.FE.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",2011.0,2024.0,5,9.0,59.78
+Other,FS.AST.DOMS.GD.ZS,Domestic credit provided by financial sector (% of GDP),,,0,,
+Other,FR.INR.RINR,Real interest rate (%),,,0,,
+Other,FP.WPI.TOTL,Wholesale price index (2010 = 100),,,0,,
+Other,FM.LBL.BMNY.IR.ZS,Broad money to total reserves ratio,1960.0,2025.0,66,0.0,2.83
+Other,FM.AST.PRVT.GD.ZS,Monetary Sector credit to private sector (% GDP),1960.0,2025.0,66,0.0,90.54
+Other,FM.AST.CGOV.ZG.M3,Claims on central government (annual growth as % of broad money),1961.0,2025.0,65,0.0,7.06
+External,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1960.0,2025.0,66,0.0,21100332321.69
+Other,FB.CBK.BRWR.P3,"Borrowers from commercial banks (per 1,000 adults)",,,0,,
+Other,FB.AST.NPER.ZS,Bank nonperforming loans to total gross loans (%),2016.0,2025.0,10,0.0,5.15
+Other,ER.H2O.INTR.PC,Renewable internal freshwater resources per capita (cubic meters),1961.0,2022.0,62,0.0,6669.93
+Other,ER.H2O.FWST.ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,2000.0,2022.0,23,0.0,8.31
+Other,ER.GDP.FWTL.M3.KD,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",2000.0,2022.0,23,0.0,3.48
+Other,EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),1960.0,2025.0,66,0.0,5.65
+Other,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),2000.0,2022.0,12,11.0,40.06
+Other,EN.POP.DNST,Population density (people per sq. km of land area),1961.0,2024.0,64,0.0,206.84
+Other,EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),1991.0,2024.0,34,0.0,51.0
+Other,EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),1970.0,2024.0,55,0.0,4.98
+Other,EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.57
+Other,EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),,,0,,
+Other,EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.0
+Other,EN.GHG.CO2.LU.OL.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),2000.0,2020.0,21,0.0,0.0
+Other,EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),1970.0,2024.0,55,0.0,2.2
+Other,EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),1970.0,2024.0,55,0.0,0.09
+Other,EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.0
+Other,EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.06
+Other,EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),1970.0,2024.0,55,0.0,41.47
+Other,EN.CLC.DRSK.XQ,Disaster risk reduction progress score (1-5 scale; 5=best),2011.0,2011.0,1,0.0,2.75
+Other,EN.ATM.PM25.MC.T2.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",1990.0,2017.0,12,16.0,100.0
+People,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1990.0,2024.0,35,0.0,388.99
+Other,GC.XPN.GSRV.CN,Goods and services expense (current LCU),2010.0,2023.0,13,1.0,50394080000.0
+Other,GC.TAX.YPKG.RV.ZS,"Taxes on income, profits and capital gains (% of revenue)",1990.0,2023.0,33,1.0,26.7
+Other,GC.TAX.OTHR.RV.ZS,Other taxes (% of revenue),1990.0,2023.0,33,1.0,0.95
+Other,GC.TAX.IMPT.ZS,Customs and other import duties (% of tax revenue),1990.0,2023.0,33,1.0,19.07
+Other,GC.TAX.GSRV.CN,Taxes on goods and services (current LCU),1990.0,2023.0,33,1.0,345782330850.0
+Other,GC.REV.XGRT.CN,"Revenue, excluding grants (current LCU)",1990.0,2023.0,33,1.0,887361693512.0
+Other,GC.REV.GOTR.CN,Grants and other revenue (current LCU),1990.0,2023.0,33,1.0,161950610000.0
+Other,GC.NFN.TOTL.CN,Net investment in nonfinancial assets (current LCU),2010.0,2023.0,13,1.0,234624750000.0
+Other,GC.DOD.TOTL.CN,"Central government debt, total (current LCU)",1990.0,2021.0,23,9.0,1737636800000.0
+Other,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),2011.0,2024.0,5,9.0,59.99
+Other,FX.OWN.TOTL.OL.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",2011.0,2024.0,5,9.0,67.37
+Other,FX.OWN.TOTL.40.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",2011.0,2024.0,5,9.0,53.01
+Other,FS.AST.CGOV.GD.ZS,"Claims on central government, etc. (% GDP)",1960.0,2025.0,66,0.0,28.22
+Other,FR.INR.LEND,Lending interest rate (%),,,0,,
+Prices,FP.CPI.TOTL,Consumer price index (2010 = 100),1964.0,2025.0,62,0.0,254.62
+Other,FM.LBL.BMNY.CN,Broad money (current LCU),1960.0,2025.0,66,0.0,8134570401200.32
+Other,FM.AST.DOMS.CN,Net domestic credit (current LCU),1960.0,2025.0,66,0.0,7667457956221.11
+External,FI.RES.TOTL.MO,Total reserves in months of imports,1976.0,2025.0,50,0.0,15.52
+Other,FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP),1960.0,2025.0,66,0.0,90.4
+Other,FB.BNK.CAPA.ZS,Bank capital to assets ratio (%),2016.0,2025.0,10,0.0,6.01
+Other,ER.MRN.PTMR.ZS,Marine protected areas (% of territorial waters),,,0,,
+Other,ER.H2O.FWTL.ZS,"Annual freshwater withdrawals, total (% of internal resources)",2000.0,2022.0,23,0.0,4.79
+Other,ER.H2O.FWDM.ZS,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",2000.0,2022.0,23,0.0,1.55
+Other,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),1960.0,2024.0,65,0.0,21000.0
+Other,EN.URB.LCTY.UR.ZS,Population in the largest city (% of urban population),1960.0,2025.0,66,0.0,8.43
+Other,EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population),1990.0,2015.0,3,23.0,0.0
+Other,EN.HPT.THRD.NO,"Plant species (higher), threatened",2018.0,2022.0,2,3.0,24.0
+Other,EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.08
+Other,EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.08
+Other,EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),,,0,,
+Other,EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),1990.0,2024.0,35,0.0,0.11
+Other,EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),1970.0,2024.0,55,0.0,15.89
+Other,EN.GHG.CO2.LU.FL.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),2000.0,2023.0,24,0.0,-16.23
+Other,EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.0
+Other,EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions from Waste (Mt CO2e),1970.0,2024.0,55,0.0,2.05
+Other,EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions from Industrial Processes (Mt CO2e),,,0,,
+Other,EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions from Agriculture (Mt CO2e),1970.0,2024.0,55,0.0,15.2
+Other,EN.FSH.THRD.NO,"Fish species, threatened",2018.0,2022.0,2,3.0,11.0
+Other,EN.ATM.PM25.MC.ZS,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",1990.0,2017.0,12,16.0,100.0
+Other,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",1990.0,2023.0,34,0.0,53.2
+People,EG.USE.COMM.GD.PP.KD,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",1990.0,2024.0,35,0.0,89.28
+People,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),1990.0,2024.0,35,0.0,11.2
+People,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",1990.0,2021.0,32,0.0,-1455900000.0
+Other,FX.OWN.TOTL.MA.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",2011.0,2024.0,5,9.0,60.23
+Other,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),1960.0,2025.0,66,0.0,90.54
+Other,FR.INR.RISK,"Risk premium on lending (lending rate minus treasury bill rate, %)",,,0,,
+Other,FR.INR.DPST,Deposit interest rate (%),,,0,,
+Other,FM.LBL.BMNY.ZG,Broad money growth (annual %),1961.0,2025.0,65,0.0,12.93
+Other,FM.AST.PRVT.ZG.M3,Claims on private sector (annual growth as % of broad money),1961.0,2025.0,65,0.0,4.93
+Other,FM.AST.DOMO.ZG.M3,Claims on other sectors of the domestic economy (annual growth as % of broad money),2002.0,2025.0,24,0.0,5.22
+External,FI.RES.TOTL.DT.ZS,Total reserves (% of total external debt),1971.0,2024.0,54,0.0,156.09
+Other,FB.CBK.DPTR.P3,"Depositors with commercial banks (per 1,000 adults)",,,0,,
+Other,FB.ATM.TOTL.P5,"Automated teller machines (ATMs) (per 100,000 adults)",2011.0,2024.0,14,0.0,24.47
+Other,ER.LND.PTLD.ZS,Terrestrial protected areas (% of total land area),2013.0,2025.0,13,0.0,23.6
+Other,ER.H2O.FWTL.K3,"Annual freshwater withdrawals, total (billion cubic meters)",2000.0,2022.0,23,0.0,9.5
+Other,ER.H2O.FWAG.ZS,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",2000.0,2022.0,23,0.0,98.14
+Other,ER.FSH.AQUA.MT,Aquaculture production (metric tons),1960.0,2024.0,65,0.0,102403.0
+Other,EN.URB.LCTY,Population in largest city,1960.0,2025.0,66,0.0,1672903.0
+Other,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),1990.0,2015.0,3,23.0,0.0
+Other,EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions excluding LULUCF (% change from 1990),1991.0,2024.0,34,0.0,79.55
+Other,EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.0
+Other,EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.0
+Other,EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),1991.0,2024.0,34,0.0,1360.12
+Other,EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),1970.0,2024.0,55,0.0,0.45
+Other,EN.GHG.CO2.LU.OS.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),2000.0,2020.0,21,0.0,0.0
+Other,EN.GHG.CO2.LU.DF.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),2000.0,2023.0,24,0.0,0.0
+Other,EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,2.12
+Other,EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.03
+Other,EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,0.06
+Other,EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),1970.0,2024.0,55,0.0,1.4
+Other,EN.CLC.MDAT.ZS,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",2009.0,2009.0,1,0.0,0.7
+Other,EN.ATM.PM25.MC.T3.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",1990.0,2017.0,12,16.0,100.0
+People,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1990.0,2024.0,35,0.0,450.61
+People,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1990.0,2024.0,35,0.0,0.0
+People,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1990.0,2024.0,35,0.0,12.75
+People,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),1990.0,2021.0,23,9.0,83.98
+People,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1990.0,2024.0,35,0.0,13.44
+People,EG.ELC.ACCS.ZS,Access to electricity (% of population),1996.0,2024.0,29,0.0,97.9
+People,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking (% of population),2000.0,2024.0,25,0.0,45.0
+Other,DT.TDS.MLAT.CD,"Multilateral debt service (TDS, current US$)",1971.0,2024.0,54,0.0,308517390.7
+Other,GC.XPN.GSRV.ZS,Goods and services expense (% of expense),2010.0,2021.0,12,0.0,4.35
+Other,GC.TAX.YPKG.ZS,"Taxes on income, profits and capital gains (% of total taxes)",1990.0,2023.0,33,1.0,32.48
+Other,GC.TAX.TOTL.CN,Tax revenue (current LCU),1990.0,2023.0,33,1.0,748419963512.0
+Other,GC.TAX.INTT.CN,Taxes on international trade (current LCU),1990.0,2023.0,33,1.0,150895180000.0
+Other,GC.TAX.GSRV.RV.ZS,Taxes on goods and services (% of revenue),1990.0,2023.0,33,1.0,37.98
+Other,GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",1990.0,2023.0,33,1.0,16.53
+Other,GC.REV.GOTR.ZS,Grants and other revenue (% of revenue),1990.0,2023.0,33,1.0,17.79
+Other,GC.NFN.TOTL.GD.ZS,Net investment in nonfinancial assets (% of GDP),2010.0,2023.0,13,1.0,4.37
+Other,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",1990.0,2021.0,23,9.0,39.92
+Other,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2008.0,2010.0,3,0.0,0.3
+Other,FX.OWN.TOTL.PL.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",2011.0,2024.0,5,9.0,57.06
+Other,FX.OWN.TOTL.60.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",2011.0,2024.0,5,9.0,64.64
+Other,FS.AST.DOMO.GD.ZS,Claims on other sectors of the domestic economy (% of GDP),,,0,,
+Other,FR.INR.LNDP,"Interest rate spread (lending rate minus deposit rate, %)",,,0,,
+Prices,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1965.0,2025.0,61,0.0,2.65
+Other,FM.LBL.BMNY.GD.ZS,Broad money (% of GDP),1960.0,2025.0,66,0.0,131.21
+Other,FM.AST.NFRG.CN,Net foreign assets (current LCU),1960.0,2025.0,66,0.0,3153829371171.48
+External,FI.RES.XGLD.CD,Total reserves minus gold (current US$),1960.0,2025.0,66,0.0,19978623093.85
+Other,FD.RES.LIQU.AS.ZS,Bank liquid reserves to bank assets ratio (%),2001.0,2025.0,25,0.0,7.68
+Other,FB.CBK.BRCH.P5,"Commercial bank branches (per 100,000 adults)",2004.0,2024.0,21,0.0,23.82
+Other,ER.PTD.TOTL.ZS,Terrestrial and marine protected areas (% of total territorial area),2013.0,2025.0,13,0.0,23.6
+Other,ER.H2O.INTR.K3,"Renewable internal freshwater resources, total (billion cubic meters)",1961.0,2022.0,62,0.0,198.2
+Other,ER.H2O.FWIN.ZS,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",2000.0,2022.0,23,0.0,0.31
+Other,ER.FSH.PROD.MT,Total fisheries production (metric tons),1960.0,2024.0,65,0.0,123403.0
+Other,EN.URB.MCTY,Population in urban agglomerations of more than 1 million,1960.0,2025.0,66,0.0,1672903.0
+Other,EN.POP.EL5M.ZS,Population living in areas where elevation is below 5 meters (% of total population),1990.0,2015.0,3,23.0,0.0
+Other,EN.MAM.THRD.NO,"Mammal species, threatened",2018.0,2022.0,2,3.0,30.0
+Other,EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),1970.0,2024.0,55,0.0,0.45
+Other,EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),1970.0,2024.0,55,0.0,0.47
+Other,EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),1970.0,2024.0,55,0.0,3.33
+Other,EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,5.04
+Other,EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),1970.0,2024.0,55,0.0,0.54
+Other,EN.GHG.CO2.LU.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),2000.0,2023.0,24,0.0,-16.23
+Other,EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,6.44
+Other,EN.GHG.CH4.ZG.AR5,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),1991.0,2024.0,34,0.0,10.08
+Other,EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),1970.0,2024.0,55,0.0,20.59
+Other,EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions from Building (Energy) (Mt CO2e),1970.0,2024.0,55,0.0,3.21
+Other,EN.GHG.ALL.LU.MT.CE.AR5,Total greenhouse gas emissions including LULUCF (Mt CO2e),2000.0,2023.0,24,0.0,25.88
+Other,EN.BIR.THRD.NO,"Bird species, threatened",2018.0,2022.0,2,3.0,38.0
+Other,EN.ATM.PM25.MC.T1.ZS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",1990.0,2017.0,12,16.0,99.96
+People,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1990.0,2024.0,35,0.0,62.96
+People,EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",1990.0,2024.0,35,0.0,27.85
