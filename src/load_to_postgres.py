@@ -60,11 +60,14 @@ indicators = indicators[
         "indicator_code",
         "theme",
         "short_label",
+        "unit",
+        "divisor",
         "official_name",
         "source_organization",
         "definition",
     ]
 ]
+
 
 if len(indicators) != len(selected):
     sys.exit("Stopped: indicator count does not match the selected list.")

@@ -1,20 +1,20 @@
-indicator_code,theme,short_label
-NY.GDP.MKTP.KD.ZG,Economy,GDP growth (annual %)
-NY.GDP.PCAP.CD,Economy,GDP per capita (current US$)
-NY.GDP.MKTP.CD,Economy,GDP (current US$)
-NV.AGR.TOTL.ZS,Economy,Agriculture value added (% of GDP)
-NV.IND.TOTL.ZS,Economy,Industry value added (% of GDP)
-NV.SRV.TOTL.ZS,Economy,Services value added (% of GDP)
-FP.CPI.TOTL.ZG,Prices,Inflation - consumer prices (annual %)
-BX.TRF.PWKR.CD.DT,External,Remittances received (current US$)
-BX.TRF.PWKR.DT.GD.ZS,External,Remittances received (% of GDP)
-NE.EXP.GNFS.ZS,External,Exports (% of GDP)
-NE.IMP.GNFS.ZS,External,Imports (% of GDP)
-FI.RES.TOTL.CD,External,Total reserves (current US$)
-BX.KLT.DINV.WD.GD.ZS,External,FDI net inflows (% of GDP)
-SP.POP.TOTL,People,Population total
-SP.URB.TOTL.IN.ZS,People,Urban population (% of total)
-SP.DYN.LE00.IN,People,Life expectancy at birth (years)
-SL.UEM.TOTL.ZS,People,Unemployment (% of labor force)
-EG.ELC.ACCS.ZS,People,Access to electricity (% of population)
-IT.NET.USER.ZS,People,Individuals using the Internet (%)
+indicator_code,theme,short_label,unit,divisor
+NY.GDP.MKTP.KD.ZG,Economy,GDP growth (annual %),%,1
+NY.GDP.PCAP.CD,Economy,GDP per capita (current US$),US$,1
+NY.GDP.MKTP.CD,Economy,GDP (current US$),US$ billion,1000000000
+NV.AGR.TOTL.ZS,Economy,Agriculture value added (% of GDP),%,1
+NV.IND.TOTL.ZS,Economy,Industry value added (% of GDP),%,1
+NV.SRV.TOTL.ZS,Economy,Services value added (% of GDP),%,1
+FP.CPI.TOTL.ZG,Prices,Inflation - consumer prices (annual %),%,1
+BX.TRF.PWKR.CD.DT,External,Remittances received (current US$),US$ billion,1000000000
+BX.TRF.PWKR.DT.GD.ZS,External,Remittances received (% of GDP),%,1
+NE.EXP.GNFS.ZS,External,Exports (% of GDP),%,1
+NE.IMP.GNFS.ZS,External,Imports (% of GDP),%,1
+FI.RES.TOTL.CD,External,Total reserves (current US$),US$ billion,1000000000
+BX.KLT.DINV.WD.GD.ZS,External,FDI net inflows (% of GDP),%,1
+SP.POP.TOTL,People,Population total,million people,1000000
+SP.URB.TOTL.IN.ZS,People,Urban population (% of total),%,1
+SP.DYN.LE00.IN,People,Life expectancy at birth (years),years,1
+SL.UEM.TOTL.ZS,People,Unemployment (% of labor force),%,1
+EG.ELC.ACCS.ZS,People,Access to electricity (% of population),%,1
+IT.NET.USER.ZS,People,Individuals using the Internet (%),%,1

@@ -1,8 +1,8 @@
 -- Create the tables required for the project.
 
 -- Drop dependent tables before their referenced tables.
-DROP TABLE IF EXISTS observations;
-DROP TABLE IF EXISTS indicators;
+DROP TABLE IF EXISTS observations CASCADE;
+DROP TABLE IF EXISTS indicators CASCADE;
 DROP TABLE IF EXISTS load_log;
 
 -- Store indicator metadata.
@@ -10,6 +10,8 @@ CREATE TABLE indicators (
     indicator_code      TEXT PRIMARY KEY,
     theme               TEXT NOT NULL,
     short_label         TEXT NOT NULL,
+    unit                TEXT NOT NULL,
+    divisor             NUMERIC NOT NULL DEFAULT 1 CHECK (divisor > 0),
     official_name       TEXT NOT NULL,
     source_organization TEXT,
     definition          TEXT
