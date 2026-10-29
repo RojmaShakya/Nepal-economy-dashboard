@@ -1,0 +1,10 @@
+{
+  "name": "Nepal Economy Dashboard",
+  "dataColors": ["#003893", "#C8102E", "#E9A100", "#2A9D8F", "#6C757D", "#8E5EA2", "#4C9BE8", "#B5651D"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#003893",
+  "good": "#2A9D8F",
+  "bad": "#C8102E",
+  "neutral": "#6C757D"
+}
